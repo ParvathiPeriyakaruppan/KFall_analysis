@@ -1,0 +1,3 @@
+group,subjects,trials,balanced_accuracy_mean,balanced_accuracy_std
+direction,32,2315,0.9491044848243988,0.02391897786180909
+context,32,2315,0.7021978371499518,0.04934038850979258

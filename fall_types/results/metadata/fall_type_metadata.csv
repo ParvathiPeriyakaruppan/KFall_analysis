@@ -1,0 +1,2320 @@
+subject,task_id,trial_id,description,direction,context
+6,20,1,Forward fall when trying to sit down,forward,sitting
+6,20,2,Forward fall when trying to sit down,forward,sitting
+6,20,3,Forward fall when trying to sit down,forward,sitting
+6,20,4,Forward fall when trying to sit down,forward,sitting
+6,20,5,Forward fall when trying to sit down,forward,sitting
+6,21,1,Backward fall when trying to sit down,backward,sitting
+6,21,2,Backward fall when trying to sit down,backward,sitting
+6,21,3,Backward fall when trying to sit down,backward,sitting
+6,21,4,Backward fall when trying to sit down,backward,sitting
+6,22,1,lateral fall when trying to sit down,lateral,sitting
+6,22,2,lateral fall when trying to sit down,lateral,sitting
+6,22,3,lateral fall when trying to sit down,lateral,sitting
+6,22,4,lateral fall when trying to sit down,lateral,sitting
+6,22,5,lateral fall when trying to sit down,lateral,sitting
+6,23,1,Forward fall when trying to get up,forward,standing
+6,23,2,Forward fall when trying to get up,forward,standing
+6,23,3,Forward fall when trying to get up,forward,standing
+6,23,4,Forward fall when trying to get up,forward,standing
+6,23,5,Forward fall when trying to get up,forward,standing
+6,24,1,lateral fall when trying to get up,lateral,standing
+6,24,2,lateral fall when trying to get up,lateral,standing
+6,24,3,lateral fall when trying to get up,lateral,standing
+6,24,4,lateral fall when trying to get up,lateral,standing
+6,24,5,lateral fall when trying to get up,lateral,standing
+6,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+6,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+6,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+6,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+6,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+6,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+6,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+6,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+6,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+6,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+6,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+6,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+6,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+6,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+6,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+6,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+6,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+6,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+6,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+6,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+6,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+6,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+6,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+6,30,1,Forward fall while walking caused by a trip,forward,walking
+6,30,2,Forward fall while walking caused by a trip,forward,walking
+6,30,3,Forward fall while walking caused by a trip,forward,walking
+6,30,4,Forward fall while walking caused by a trip,forward,walking
+6,30,5,Forward fall while walking caused by a trip,forward,walking
+6,31,1,Forward fall while jogging caused by a trip,forward,running
+6,31,2,Forward fall while jogging caused by a trip,forward,running
+6,31,3,Forward fall while jogging caused by a trip,forward,running
+6,31,4,Forward fall while jogging caused by a trip,forward,running
+6,31,5,Forward fall while jogging caused by a trip,forward,running
+6,32,1,Forward fall while walking caused by a slip,forward,walking
+6,32,2,Forward fall while walking caused by a slip,forward,walking
+6,32,3,Forward fall while walking caused by a slip,forward,walking
+6,32,4,Forward fall while walking caused by a slip,forward,walking
+6,32,5,Forward fall while walking caused by a slip,forward,walking
+6,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+6,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+6,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+6,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+6,34,1,Backward fall while walking caused by a slip,backward,walking
+6,34,2,Backward fall while walking caused by a slip,backward,walking
+6,34,3,Backward fall while walking caused by a slip,backward,walking
+6,34,4,Backward fall while walking caused by a slip,backward,walking
+6,34,5,Backward fall while walking caused by a slip,backward,walking
+7,20,1,Forward fall when trying to sit down,forward,sitting
+7,20,2,Forward fall when trying to sit down,forward,sitting
+7,20,3,Forward fall when trying to sit down,forward,sitting
+7,20,4,Forward fall when trying to sit down,forward,sitting
+7,20,5,Forward fall when trying to sit down,forward,sitting
+7,21,1,Backward fall when trying to sit down,backward,sitting
+7,21,2,Backward fall when trying to sit down,backward,sitting
+7,21,3,Backward fall when trying to sit down,backward,sitting
+7,21,4,Backward fall when trying to sit down,backward,sitting
+7,21,5,Backward fall when trying to sit down,backward,sitting
+7,22,1,lateral fall when trying to sit down,lateral,sitting
+7,22,2,lateral fall when trying to sit down,lateral,sitting
+7,22,3,lateral fall when trying to sit down,lateral,sitting
+7,22,4,lateral fall when trying to sit down,lateral,sitting
+7,22,5,lateral fall when trying to sit down,lateral,sitting
+7,23,1,Forward fall when trying to get up,forward,standing
+7,23,2,Forward fall when trying to get up,forward,standing
+7,23,3,Forward fall when trying to get up,forward,standing
+7,23,4,Forward fall when trying to get up,forward,standing
+7,23,5,Forward fall when trying to get up,forward,standing
+7,24,1,lateral fall when trying to get up,lateral,standing
+7,24,2,lateral fall when trying to get up,lateral,standing
+7,24,3,lateral fall when trying to get up,lateral,standing
+7,24,4,lateral fall when trying to get up,lateral,standing
+7,24,5,lateral fall when trying to get up,lateral,standing
+7,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+7,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+7,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+7,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+7,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+7,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+7,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+7,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+7,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+7,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+7,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+7,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+7,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+7,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+7,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+7,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+7,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+7,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+7,31,2,Forward fall while jogging caused by a trip,forward,running
+7,31,3,Forward fall while jogging caused by a trip,forward,running
+7,31,4,Forward fall while jogging caused by a trip,forward,running
+7,31,5,Forward fall while jogging caused by a trip,forward,running
+7,32,1,Forward fall while walking caused by a slip,forward,walking
+7,32,2,Forward fall while walking caused by a slip,forward,walking
+7,32,3,Forward fall while walking caused by a slip,forward,walking
+7,32,4,Forward fall while walking caused by a slip,forward,walking
+7,32,5,Forward fall while walking caused by a slip,forward,walking
+7,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+7,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+7,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+7,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+7,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+7,34,1,Backward fall while walking caused by a slip,backward,walking
+7,34,2,Backward fall while walking caused by a slip,backward,walking
+7,34,3,Backward fall while walking caused by a slip,backward,walking
+7,34,4,Backward fall while walking caused by a slip,backward,walking
+7,34,5,Backward fall while walking caused by a slip,backward,walking
+8,20,2,Forward fall when trying to sit down,forward,sitting
+8,20,3,Forward fall when trying to sit down,forward,sitting
+8,20,4,Forward fall when trying to sit down,forward,sitting
+8,20,5,Forward fall when trying to sit down,forward,sitting
+8,21,1,Backward fall when trying to sit down,backward,sitting
+8,21,2,Backward fall when trying to sit down,backward,sitting
+8,21,3,Backward fall when trying to sit down,backward,sitting
+8,21,4,Backward fall when trying to sit down,backward,sitting
+8,21,5,Backward fall when trying to sit down,backward,sitting
+8,22,1,lateral fall when trying to sit down,lateral,sitting
+8,22,2,lateral fall when trying to sit down,lateral,sitting
+8,22,3,lateral fall when trying to sit down,lateral,sitting
+8,22,4,lateral fall when trying to sit down,lateral,sitting
+8,22,5,lateral fall when trying to sit down,lateral,sitting
+8,23,1,Forward fall when trying to get up,forward,standing
+8,23,2,Forward fall when trying to get up,forward,standing
+8,23,3,Forward fall when trying to get up,forward,standing
+8,23,4,Forward fall when trying to get up,forward,standing
+8,23,5,Forward fall when trying to get up,forward,standing
+8,24,1,lateral fall when trying to get up,lateral,standing
+8,24,2,lateral fall when trying to get up,lateral,standing
+8,24,3,lateral fall when trying to get up,lateral,standing
+8,24,4,lateral fall when trying to get up,lateral,standing
+8,24,5,lateral fall when trying to get up,lateral,standing
+8,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+8,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+8,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+8,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+8,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+8,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+8,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+8,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+8,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+8,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+8,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+8,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+8,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+8,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+8,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+8,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+8,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+8,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+8,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+8,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+8,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+8,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+8,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+8,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+8,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+8,30,1,Forward fall while walking caused by a trip,forward,walking
+8,30,2,Forward fall while walking caused by a trip,forward,walking
+8,30,3,Forward fall while walking caused by a trip,forward,walking
+8,30,4,Forward fall while walking caused by a trip,forward,walking
+8,30,5,Forward fall while walking caused by a trip,forward,walking
+8,31,1,Forward fall while jogging caused by a trip,forward,running
+8,31,2,Forward fall while jogging caused by a trip,forward,running
+8,31,3,Forward fall while jogging caused by a trip,forward,running
+8,31,4,Forward fall while jogging caused by a trip,forward,running
+8,31,5,Forward fall while jogging caused by a trip,forward,running
+8,32,1,Forward fall while walking caused by a slip,forward,walking
+8,32,2,Forward fall while walking caused by a slip,forward,walking
+8,32,3,Forward fall while walking caused by a slip,forward,walking
+8,32,4,Forward fall while walking caused by a slip,forward,walking
+8,32,5,Forward fall while walking caused by a slip,forward,walking
+8,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+8,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+8,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+8,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+8,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+8,34,1,Backward fall while walking caused by a slip,backward,walking
+8,34,2,Backward fall while walking caused by a slip,backward,walking
+8,34,4,Backward fall while walking caused by a slip,backward,walking
+8,34,5,Backward fall while walking caused by a slip,backward,walking
+9,20,2,Forward fall when trying to sit down,forward,sitting
+9,20,3,Forward fall when trying to sit down,forward,sitting
+9,20,4,Forward fall when trying to sit down,forward,sitting
+9,20,5,Forward fall when trying to sit down,forward,sitting
+9,21,1,Backward fall when trying to sit down,backward,sitting
+9,21,2,Backward fall when trying to sit down,backward,sitting
+9,21,3,Backward fall when trying to sit down,backward,sitting
+9,21,4,Backward fall when trying to sit down,backward,sitting
+9,21,5,Backward fall when trying to sit down,backward,sitting
+9,22,1,lateral fall when trying to sit down,lateral,sitting
+9,22,2,lateral fall when trying to sit down,lateral,sitting
+9,22,3,lateral fall when trying to sit down,lateral,sitting
+9,22,4,lateral fall when trying to sit down,lateral,sitting
+9,22,5,lateral fall when trying to sit down,lateral,sitting
+9,23,1,Forward fall when trying to get up,forward,standing
+9,23,2,Forward fall when trying to get up,forward,standing
+9,23,3,Forward fall when trying to get up,forward,standing
+9,23,4,Forward fall when trying to get up,forward,standing
+9,23,5,Forward fall when trying to get up,forward,standing
+9,24,1,lateral fall when trying to get up,lateral,standing
+9,24,2,lateral fall when trying to get up,lateral,standing
+9,24,3,lateral fall when trying to get up,lateral,standing
+9,24,4,lateral fall when trying to get up,lateral,standing
+9,24,5,lateral fall when trying to get up,lateral,standing
+9,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+9,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+9,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+9,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+9,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+9,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+9,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+9,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+9,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+9,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+9,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+9,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+9,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+9,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+9,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+9,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+9,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+9,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+9,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+9,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+9,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+9,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+9,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+9,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+9,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+9,30,1,Forward fall while walking caused by a trip,forward,walking
+9,30,2,Forward fall while walking caused by a trip,forward,walking
+9,30,3,Forward fall while walking caused by a trip,forward,walking
+9,30,4,Forward fall while walking caused by a trip,forward,walking
+9,30,5,Forward fall while walking caused by a trip,forward,walking
+9,31,1,Forward fall while jogging caused by a trip,forward,running
+9,31,2,Forward fall while jogging caused by a trip,forward,running
+9,31,3,Forward fall while jogging caused by a trip,forward,running
+9,31,4,Forward fall while jogging caused by a trip,forward,running
+9,31,5,Forward fall while jogging caused by a trip,forward,running
+9,32,1,Forward fall while walking caused by a slip,forward,walking
+9,32,2,Forward fall while walking caused by a slip,forward,walking
+9,32,3,Forward fall while walking caused by a slip,forward,walking
+9,32,4,Forward fall while walking caused by a slip,forward,walking
+9,32,5,Forward fall while walking caused by a slip,forward,walking
+9,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+9,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+9,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+9,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+9,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+9,34,1,Backward fall while walking caused by a slip,backward,walking
+9,34,2,Backward fall while walking caused by a slip,backward,walking
+9,34,3,Backward fall while walking caused by a slip,backward,walking
+9,34,4,Backward fall while walking caused by a slip,backward,walking
+9,34,5,Backward fall while walking caused by a slip,backward,walking
+10,20,1,Forward fall when trying to sit down,forward,sitting
+10,20,2,Forward fall when trying to sit down,forward,sitting
+10,20,3,Forward fall when trying to sit down,forward,sitting
+10,20,4,Forward fall when trying to sit down,forward,sitting
+10,20,5,Forward fall when trying to sit down,forward,sitting
+10,21,1,Backward fall when trying to sit down,backward,sitting
+10,21,2,Backward fall when trying to sit down,backward,sitting
+10,21,3,Backward fall when trying to sit down,backward,sitting
+10,21,4,Backward fall when trying to sit down,backward,sitting
+10,21,5,Backward fall when trying to sit down,backward,sitting
+10,22,1,lateral fall when trying to sit down,lateral,sitting
+10,22,2,lateral fall when trying to sit down,lateral,sitting
+10,22,3,lateral fall when trying to sit down,lateral,sitting
+10,22,4,lateral fall when trying to sit down,lateral,sitting
+10,22,5,lateral fall when trying to sit down,lateral,sitting
+10,23,1,Forward fall when trying to get up,forward,standing
+10,23,2,Forward fall when trying to get up,forward,standing
+10,23,3,Forward fall when trying to get up,forward,standing
+10,23,4,Forward fall when trying to get up,forward,standing
+10,23,5,Forward fall when trying to get up,forward,standing
+10,24,1,lateral fall when trying to get up,lateral,standing
+10,24,2,lateral fall when trying to get up,lateral,standing
+10,24,3,lateral fall when trying to get up,lateral,standing
+10,24,4,lateral fall when trying to get up,lateral,standing
+10,24,5,lateral fall when trying to get up,lateral,standing
+10,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+10,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+10,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+10,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+10,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+10,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+10,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+10,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+10,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+10,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+10,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+10,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+10,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+10,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+10,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+10,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+10,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+10,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+10,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+10,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+10,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+10,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+10,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+10,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+10,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+10,30,1,Forward fall while walking caused by a trip,forward,walking
+10,30,2,Forward fall while walking caused by a trip,forward,walking
+10,30,3,Forward fall while walking caused by a trip,forward,walking
+10,30,4,Forward fall while walking caused by a trip,forward,walking
+10,30,5,Forward fall while walking caused by a trip,forward,walking
+10,31,1,Forward fall while jogging caused by a trip,forward,running
+10,31,3,Forward fall while jogging caused by a trip,forward,running
+10,31,4,Forward fall while jogging caused by a trip,forward,running
+10,31,5,Forward fall while jogging caused by a trip,forward,running
+10,32,1,Forward fall while walking caused by a slip,forward,walking
+10,32,2,Forward fall while walking caused by a slip,forward,walking
+10,32,3,Forward fall while walking caused by a slip,forward,walking
+10,32,4,Forward fall while walking caused by a slip,forward,walking
+10,32,5,Forward fall while walking caused by a slip,forward,walking
+10,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+10,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+10,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+10,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+10,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+10,34,1,Backward fall while walking caused by a slip,backward,walking
+10,34,2,Backward fall while walking caused by a slip,backward,walking
+10,34,3,Backward fall while walking caused by a slip,backward,walking
+10,34,4,Backward fall while walking caused by a slip,backward,walking
+10,34,5,Backward fall while walking caused by a slip,backward,walking
+11,20,1,Forward fall when trying to sit down,forward,sitting
+11,20,2,Forward fall when trying to sit down,forward,sitting
+11,20,3,Forward fall when trying to sit down,forward,sitting
+11,20,4,Forward fall when trying to sit down,forward,sitting
+11,20,5,Forward fall when trying to sit down,forward,sitting
+11,21,1,Backward fall when trying to sit down,backward,sitting
+11,21,2,Backward fall when trying to sit down,backward,sitting
+11,21,3,Backward fall when trying to sit down,backward,sitting
+11,21,4,Backward fall when trying to sit down,backward,sitting
+11,21,5,Backward fall when trying to sit down,backward,sitting
+11,22,1,lateral fall when trying to sit down,lateral,sitting
+11,22,2,lateral fall when trying to sit down,lateral,sitting
+11,22,3,lateral fall when trying to sit down,lateral,sitting
+11,22,4,lateral fall when trying to sit down,lateral,sitting
+11,22,5,lateral fall when trying to sit down,lateral,sitting
+11,23,1,Forward fall when trying to get up,forward,standing
+11,23,2,Forward fall when trying to get up,forward,standing
+11,23,3,Forward fall when trying to get up,forward,standing
+11,23,4,Forward fall when trying to get up,forward,standing
+11,23,5,Forward fall when trying to get up,forward,standing
+11,24,1,lateral fall when trying to get up,lateral,standing
+11,24,2,lateral fall when trying to get up,lateral,standing
+11,24,3,lateral fall when trying to get up,lateral,standing
+11,24,4,lateral fall when trying to get up,lateral,standing
+11,24,5,lateral fall when trying to get up,lateral,standing
+11,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+11,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+11,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+11,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+11,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+11,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+11,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+11,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+11,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+11,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+11,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+11,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+11,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+11,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+11,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+11,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+11,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+11,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+11,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+11,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+11,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+11,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+11,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+11,30,1,Forward fall while walking caused by a trip,forward,walking
+11,30,2,Forward fall while walking caused by a trip,forward,walking
+11,30,3,Forward fall while walking caused by a trip,forward,walking
+11,30,4,Forward fall while walking caused by a trip,forward,walking
+11,30,5,Forward fall while walking caused by a trip,forward,walking
+11,31,1,Forward fall while jogging caused by a trip,forward,running
+11,31,2,Forward fall while jogging caused by a trip,forward,running
+11,31,3,Forward fall while jogging caused by a trip,forward,running
+11,31,4,Forward fall while jogging caused by a trip,forward,running
+11,31,5,Forward fall while jogging caused by a trip,forward,running
+11,32,1,Forward fall while walking caused by a slip,forward,walking
+11,32,2,Forward fall while walking caused by a slip,forward,walking
+11,32,3,Forward fall while walking caused by a slip,forward,walking
+11,32,4,Forward fall while walking caused by a slip,forward,walking
+11,32,5,Forward fall while walking caused by a slip,forward,walking
+11,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+11,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+11,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+11,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+11,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+11,34,1,Backward fall while walking caused by a slip,backward,walking
+11,34,2,Backward fall while walking caused by a slip,backward,walking
+11,34,3,Backward fall while walking caused by a slip,backward,walking
+11,34,4,Backward fall while walking caused by a slip,backward,walking
+11,34,5,Backward fall while walking caused by a slip,backward,walking
+12,20,1,Forward fall when trying to sit down,forward,sitting
+12,20,2,Forward fall when trying to sit down,forward,sitting
+12,20,3,Forward fall when trying to sit down,forward,sitting
+12,20,4,Forward fall when trying to sit down,forward,sitting
+12,20,5,Forward fall when trying to sit down,forward,sitting
+12,21,1,Backward fall when trying to sit down,backward,sitting
+12,21,2,Backward fall when trying to sit down,backward,sitting
+12,21,3,Backward fall when trying to sit down,backward,sitting
+12,21,4,Backward fall when trying to sit down,backward,sitting
+12,21,5,Backward fall when trying to sit down,backward,sitting
+12,22,1,lateral fall when trying to sit down,lateral,sitting
+12,22,2,lateral fall when trying to sit down,lateral,sitting
+12,22,3,lateral fall when trying to sit down,lateral,sitting
+12,22,4,lateral fall when trying to sit down,lateral,sitting
+12,22,5,lateral fall when trying to sit down,lateral,sitting
+12,23,1,Forward fall when trying to get up,forward,standing
+12,23,2,Forward fall when trying to get up,forward,standing
+12,23,3,Forward fall when trying to get up,forward,standing
+12,23,4,Forward fall when trying to get up,forward,standing
+12,23,5,Forward fall when trying to get up,forward,standing
+12,24,1,lateral fall when trying to get up,lateral,standing
+12,24,2,lateral fall when trying to get up,lateral,standing
+12,24,3,lateral fall when trying to get up,lateral,standing
+12,24,4,lateral fall when trying to get up,lateral,standing
+12,24,5,lateral fall when trying to get up,lateral,standing
+12,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+12,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+12,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+12,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+12,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+12,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+12,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+12,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+12,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+12,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+12,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+12,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+12,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+12,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+12,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+12,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+12,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+12,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+12,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+12,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+12,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+12,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+12,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+12,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+12,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+12,30,1,Forward fall while walking caused by a trip,forward,walking
+12,30,2,Forward fall while walking caused by a trip,forward,walking
+12,30,3,Forward fall while walking caused by a trip,forward,walking
+12,30,4,Forward fall while walking caused by a trip,forward,walking
+12,30,5,Forward fall while walking caused by a trip,forward,walking
+12,31,1,Forward fall while jogging caused by a trip,forward,running
+12,31,2,Forward fall while jogging caused by a trip,forward,running
+12,31,3,Forward fall while jogging caused by a trip,forward,running
+12,31,4,Forward fall while jogging caused by a trip,forward,running
+12,31,5,Forward fall while jogging caused by a trip,forward,running
+12,32,1,Forward fall while walking caused by a slip,forward,walking
+12,32,2,Forward fall while walking caused by a slip,forward,walking
+12,32,3,Forward fall while walking caused by a slip,forward,walking
+12,32,4,Forward fall while walking caused by a slip,forward,walking
+12,32,5,Forward fall while walking caused by a slip,forward,walking
+12,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+12,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+12,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+12,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+12,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+12,34,1,Backward fall while walking caused by a slip,backward,walking
+12,34,2,Backward fall while walking caused by a slip,backward,walking
+12,34,3,Backward fall while walking caused by a slip,backward,walking
+12,34,4,Backward fall while walking caused by a slip,backward,walking
+12,34,5,Backward fall while walking caused by a slip,backward,walking
+13,20,1,Forward fall when trying to sit down,forward,sitting
+13,20,2,Forward fall when trying to sit down,forward,sitting
+13,20,3,Forward fall when trying to sit down,forward,sitting
+13,20,4,Forward fall when trying to sit down,forward,sitting
+13,21,1,Backward fall when trying to sit down,backward,sitting
+13,21,2,Backward fall when trying to sit down,backward,sitting
+13,21,3,Backward fall when trying to sit down,backward,sitting
+13,21,4,Backward fall when trying to sit down,backward,sitting
+13,21,5,Backward fall when trying to sit down,backward,sitting
+13,22,1,lateral fall when trying to sit down,lateral,sitting
+13,22,2,lateral fall when trying to sit down,lateral,sitting
+13,22,3,lateral fall when trying to sit down,lateral,sitting
+13,22,4,lateral fall when trying to sit down,lateral,sitting
+13,22,5,lateral fall when trying to sit down,lateral,sitting
+13,23,1,Forward fall when trying to get up,forward,standing
+13,23,2,Forward fall when trying to get up,forward,standing
+13,23,3,Forward fall when trying to get up,forward,standing
+13,23,4,Forward fall when trying to get up,forward,standing
+13,23,5,Forward fall when trying to get up,forward,standing
+13,24,1,lateral fall when trying to get up,lateral,standing
+13,24,2,lateral fall when trying to get up,lateral,standing
+13,24,3,lateral fall when trying to get up,lateral,standing
+13,24,4,lateral fall when trying to get up,lateral,standing
+13,24,5,lateral fall when trying to get up,lateral,standing
+13,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+13,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+13,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+13,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+13,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+13,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+13,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+13,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+13,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+13,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+13,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+13,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+13,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+13,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+13,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+13,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+13,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+13,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+13,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+13,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+13,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+13,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+13,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+13,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+13,30,1,Forward fall while walking caused by a trip,forward,walking
+13,30,2,Forward fall while walking caused by a trip,forward,walking
+13,30,3,Forward fall while walking caused by a trip,forward,walking
+13,30,4,Forward fall while walking caused by a trip,forward,walking
+13,30,5,Forward fall while walking caused by a trip,forward,walking
+13,31,1,Forward fall while jogging caused by a trip,forward,running
+13,31,2,Forward fall while jogging caused by a trip,forward,running
+13,31,3,Forward fall while jogging caused by a trip,forward,running
+13,31,4,Forward fall while jogging caused by a trip,forward,running
+13,31,5,Forward fall while jogging caused by a trip,forward,running
+13,32,1,Forward fall while walking caused by a slip,forward,walking
+13,32,2,Forward fall while walking caused by a slip,forward,walking
+13,32,3,Forward fall while walking caused by a slip,forward,walking
+13,32,4,Forward fall while walking caused by a slip,forward,walking
+13,32,5,Forward fall while walking caused by a slip,forward,walking
+13,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+13,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+13,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+13,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+13,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+13,34,1,Backward fall while walking caused by a slip,backward,walking
+13,34,2,Backward fall while walking caused by a slip,backward,walking
+13,34,3,Backward fall while walking caused by a slip,backward,walking
+13,34,4,Backward fall while walking caused by a slip,backward,walking
+13,34,5,Backward fall while walking caused by a slip,backward,walking
+14,20,1,Forward fall when trying to sit down,forward,sitting
+14,20,2,Forward fall when trying to sit down,forward,sitting
+14,20,3,Forward fall when trying to sit down,forward,sitting
+14,20,4,Forward fall when trying to sit down,forward,sitting
+14,20,5,Forward fall when trying to sit down,forward,sitting
+14,21,1,Backward fall when trying to sit down,backward,sitting
+14,21,2,Backward fall when trying to sit down,backward,sitting
+14,21,3,Backward fall when trying to sit down,backward,sitting
+14,21,4,Backward fall when trying to sit down,backward,sitting
+14,21,5,Backward fall when trying to sit down,backward,sitting
+14,22,1,lateral fall when trying to sit down,lateral,sitting
+14,22,2,lateral fall when trying to sit down,lateral,sitting
+14,22,3,lateral fall when trying to sit down,lateral,sitting
+14,22,4,lateral fall when trying to sit down,lateral,sitting
+14,22,5,lateral fall when trying to sit down,lateral,sitting
+14,23,1,Forward fall when trying to get up,forward,standing
+14,23,2,Forward fall when trying to get up,forward,standing
+14,23,3,Forward fall when trying to get up,forward,standing
+14,23,4,Forward fall when trying to get up,forward,standing
+14,23,5,Forward fall when trying to get up,forward,standing
+14,24,1,lateral fall when trying to get up,lateral,standing
+14,24,2,lateral fall when trying to get up,lateral,standing
+14,24,3,lateral fall when trying to get up,lateral,standing
+14,24,4,lateral fall when trying to get up,lateral,standing
+14,24,5,lateral fall when trying to get up,lateral,standing
+14,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+14,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+14,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+14,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+14,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+14,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+14,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+14,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+14,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+14,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+14,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+14,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+14,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+14,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+14,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+14,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+14,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+14,30,1,Forward fall while walking caused by a trip,forward,walking
+14,30,2,Forward fall while walking caused by a trip,forward,walking
+14,30,3,Forward fall while walking caused by a trip,forward,walking
+14,30,4,Forward fall while walking caused by a trip,forward,walking
+14,30,5,Forward fall while walking caused by a trip,forward,walking
+14,31,2,Forward fall while jogging caused by a trip,forward,running
+14,31,3,Forward fall while jogging caused by a trip,forward,running
+14,31,4,Forward fall while jogging caused by a trip,forward,running
+14,31,5,Forward fall while jogging caused by a trip,forward,running
+14,32,1,Forward fall while walking caused by a slip,forward,walking
+14,32,2,Forward fall while walking caused by a slip,forward,walking
+14,32,3,Forward fall while walking caused by a slip,forward,walking
+14,32,4,Forward fall while walking caused by a slip,forward,walking
+14,32,5,Forward fall while walking caused by a slip,forward,walking
+14,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+14,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+14,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+14,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+14,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+14,34,1,Backward fall while walking caused by a slip,backward,walking
+14,34,2,Backward fall while walking caused by a slip,backward,walking
+14,34,3,Backward fall while walking caused by a slip,backward,walking
+14,34,4,Backward fall while walking caused by a slip,backward,walking
+14,34,5,Backward fall while walking caused by a slip,backward,walking
+15,20,1,Forward fall when trying to sit down,forward,sitting
+15,20,2,Forward fall when trying to sit down,forward,sitting
+15,20,3,Forward fall when trying to sit down,forward,sitting
+15,20,4,Forward fall when trying to sit down,forward,sitting
+15,20,5,Forward fall when trying to sit down,forward,sitting
+15,21,1,Backward fall when trying to sit down,backward,sitting
+15,21,2,Backward fall when trying to sit down,backward,sitting
+15,21,3,Backward fall when trying to sit down,backward,sitting
+15,21,4,Backward fall when trying to sit down,backward,sitting
+15,21,5,Backward fall when trying to sit down,backward,sitting
+15,22,1,lateral fall when trying to sit down,lateral,sitting
+15,22,2,lateral fall when trying to sit down,lateral,sitting
+15,22,3,lateral fall when trying to sit down,lateral,sitting
+15,22,4,lateral fall when trying to sit down,lateral,sitting
+15,22,5,lateral fall when trying to sit down,lateral,sitting
+15,23,1,Forward fall when trying to get up,forward,standing
+15,23,2,Forward fall when trying to get up,forward,standing
+15,23,3,Forward fall when trying to get up,forward,standing
+15,23,4,Forward fall when trying to get up,forward,standing
+15,23,5,Forward fall when trying to get up,forward,standing
+15,24,1,lateral fall when trying to get up,lateral,standing
+15,24,2,lateral fall when trying to get up,lateral,standing
+15,24,3,lateral fall when trying to get up,lateral,standing
+15,24,4,lateral fall when trying to get up,lateral,standing
+15,24,5,lateral fall when trying to get up,lateral,standing
+15,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+15,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+15,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+15,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+15,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+15,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+15,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+15,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+15,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+15,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+15,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+15,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+15,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+15,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+15,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+15,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+15,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+15,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+15,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+15,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+15,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+15,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+15,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+15,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+15,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+15,30,1,Forward fall while walking caused by a trip,forward,walking
+15,30,2,Forward fall while walking caused by a trip,forward,walking
+15,30,3,Forward fall while walking caused by a trip,forward,walking
+15,30,4,Forward fall while walking caused by a trip,forward,walking
+15,30,5,Forward fall while walking caused by a trip,forward,walking
+15,31,1,Forward fall while jogging caused by a trip,forward,running
+15,31,2,Forward fall while jogging caused by a trip,forward,running
+15,31,3,Forward fall while jogging caused by a trip,forward,running
+15,31,4,Forward fall while jogging caused by a trip,forward,running
+15,31,5,Forward fall while jogging caused by a trip,forward,running
+15,32,1,Forward fall while walking caused by a slip,forward,walking
+15,32,2,Forward fall while walking caused by a slip,forward,walking
+15,32,3,Forward fall while walking caused by a slip,forward,walking
+15,32,4,Forward fall while walking caused by a slip,forward,walking
+15,32,5,Forward fall while walking caused by a slip,forward,walking
+15,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+15,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+15,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+15,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+15,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+15,34,1,Backward fall while walking caused by a slip,backward,walking
+15,34,2,Backward fall while walking caused by a slip,backward,walking
+15,34,3,Backward fall while walking caused by a slip,backward,walking
+15,34,4,Backward fall while walking caused by a slip,backward,walking
+15,34,5,Backward fall while walking caused by a slip,backward,walking
+16,20,1,Forward fall when trying to sit down,forward,sitting
+16,20,2,Forward fall when trying to sit down,forward,sitting
+16,20,3,Forward fall when trying to sit down,forward,sitting
+16,20,4,Forward fall when trying to sit down,forward,sitting
+16,20,5,Forward fall when trying to sit down,forward,sitting
+16,21,1,Backward fall when trying to sit down,backward,sitting
+16,21,2,Backward fall when trying to sit down,backward,sitting
+16,21,3,Backward fall when trying to sit down,backward,sitting
+16,21,4,Backward fall when trying to sit down,backward,sitting
+16,21,5,Backward fall when trying to sit down,backward,sitting
+16,22,1,lateral fall when trying to sit down,lateral,sitting
+16,22,2,lateral fall when trying to sit down,lateral,sitting
+16,22,3,lateral fall when trying to sit down,lateral,sitting
+16,22,4,lateral fall when trying to sit down,lateral,sitting
+16,22,5,lateral fall when trying to sit down,lateral,sitting
+16,23,1,Forward fall when trying to get up,forward,standing
+16,23,2,Forward fall when trying to get up,forward,standing
+16,23,3,Forward fall when trying to get up,forward,standing
+16,23,4,Forward fall when trying to get up,forward,standing
+16,23,5,Forward fall when trying to get up,forward,standing
+16,24,1,lateral fall when trying to get up,lateral,standing
+16,24,2,lateral fall when trying to get up,lateral,standing
+16,24,3,lateral fall when trying to get up,lateral,standing
+16,24,4,lateral fall when trying to get up,lateral,standing
+16,24,5,lateral fall when trying to get up,lateral,standing
+16,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+16,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+16,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+16,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+16,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+16,26,1,"Backward fall while sitting, caused by fainting",backward,fainting
+16,26,2,"Backward fall while sitting, caused by fainting",backward,fainting
+16,26,3,"Backward fall while sitting, caused by fainting",backward,fainting
+16,26,4,"Backward fall while sitting, caused by fainting",backward,fainting
+16,26,5,"Backward fall while sitting, caused by fainting",backward,fainting
+16,27,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+16,27,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+16,27,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+16,27,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+16,27,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+16,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+16,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+16,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+16,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+16,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+16,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+16,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+16,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+16,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+16,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+16,30,1,Forward fall while walking caused by a trip,forward,walking
+16,30,2,Forward fall while walking caused by a trip,forward,walking
+16,30,3,Forward fall while walking caused by a trip,forward,walking
+16,30,4,Forward fall while walking caused by a trip,forward,walking
+16,30,5,Forward fall while walking caused by a trip,forward,walking
+16,31,1,Forward fall while jogging caused by a trip,forward,running
+16,31,2,Forward fall while jogging caused by a trip,forward,running
+16,31,3,Forward fall while jogging caused by a trip,forward,running
+16,31,4,Forward fall while jogging caused by a trip,forward,running
+16,31,5,Forward fall while jogging caused by a trip,forward,running
+16,32,1,Forward fall while walking caused by a slip,forward,walking
+16,32,2,Forward fall while walking caused by a slip,forward,walking
+16,32,3,Forward fall while walking caused by a slip,forward,walking
+16,32,4,Forward fall while walking caused by a slip,forward,walking
+16,32,5,Forward fall while walking caused by a slip,forward,walking
+16,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+16,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+16,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+16,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+16,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+16,34,1,Backward fall while walking caused by a slip,backward,walking
+16,34,2,Backward fall while walking caused by a slip,backward,walking
+16,34,3,Backward fall while walking caused by a slip,backward,walking
+16,34,4,Backward fall while walking caused by a slip,backward,walking
+16,34,5,Backward fall while walking caused by a slip,backward,walking
+17,20,1,Forward fall when trying to sit down,forward,sitting
+17,20,2,Forward fall when trying to sit down,forward,sitting
+17,20,3,Forward fall when trying to sit down,forward,sitting
+17,20,4,Forward fall when trying to sit down,forward,sitting
+17,20,5,Forward fall when trying to sit down,forward,sitting
+17,21,1,Backward fall when trying to sit down,backward,sitting
+17,21,2,Backward fall when trying to sit down,backward,sitting
+17,21,3,Backward fall when trying to sit down,backward,sitting
+17,21,4,Backward fall when trying to sit down,backward,sitting
+17,21,5,Backward fall when trying to sit down,backward,sitting
+17,22,1,lateral fall when trying to sit down,lateral,sitting
+17,22,2,lateral fall when trying to sit down,lateral,sitting
+17,22,3,lateral fall when trying to sit down,lateral,sitting
+17,22,4,lateral fall when trying to sit down,lateral,sitting
+17,22,5,lateral fall when trying to sit down,lateral,sitting
+17,23,1,Forward fall when trying to get up,forward,standing
+17,23,2,Forward fall when trying to get up,forward,standing
+17,23,3,Forward fall when trying to get up,forward,standing
+17,23,4,Forward fall when trying to get up,forward,standing
+17,23,5,Forward fall when trying to get up,forward,standing
+17,24,1,lateral fall when trying to get up,lateral,standing
+17,24,2,lateral fall when trying to get up,lateral,standing
+17,24,3,lateral fall when trying to get up,lateral,standing
+17,24,4,lateral fall when trying to get up,lateral,standing
+17,24,5,lateral fall when trying to get up,lateral,standing
+17,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+17,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+17,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+17,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+17,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+17,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+17,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+17,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+17,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+17,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+17,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+17,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+17,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+17,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+17,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+17,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+17,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+17,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+17,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+17,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+17,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+17,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+17,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+17,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+17,30,1,Forward fall while walking caused by a trip,forward,walking
+17,30,2,Forward fall while walking caused by a trip,forward,walking
+17,30,3,Forward fall while walking caused by a trip,forward,walking
+17,30,4,Forward fall while walking caused by a trip,forward,walking
+17,30,5,Forward fall while walking caused by a trip,forward,walking
+17,31,1,Forward fall while jogging caused by a trip,forward,running
+17,31,2,Forward fall while jogging caused by a trip,forward,running
+17,31,3,Forward fall while jogging caused by a trip,forward,running
+17,31,4,Forward fall while jogging caused by a trip,forward,running
+17,31,5,Forward fall while jogging caused by a trip,forward,running
+17,32,1,Forward fall while walking caused by a slip,forward,walking
+17,32,2,Forward fall while walking caused by a slip,forward,walking
+17,32,3,Forward fall while walking caused by a slip,forward,walking
+17,32,4,Forward fall while walking caused by a slip,forward,walking
+17,32,5,Forward fall while walking caused by a slip,forward,walking
+17,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+17,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+17,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+17,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+17,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+17,34,1,Backward fall while walking caused by a slip,backward,walking
+17,34,2,Backward fall while walking caused by a slip,backward,walking
+17,34,3,Backward fall while walking caused by a slip,backward,walking
+17,34,4,Backward fall while walking caused by a slip,backward,walking
+17,34,5,Backward fall while walking caused by a slip,backward,walking
+18,20,1,Forward fall when trying to sit down,forward,sitting
+18,20,2,Forward fall when trying to sit down,forward,sitting
+18,20,3,Forward fall when trying to sit down,forward,sitting
+18,20,4,Forward fall when trying to sit down,forward,sitting
+18,20,5,Forward fall when trying to sit down,forward,sitting
+18,21,1,Backward fall when trying to sit down,backward,sitting
+18,21,2,Backward fall when trying to sit down,backward,sitting
+18,21,3,Backward fall when trying to sit down,backward,sitting
+18,21,4,Backward fall when trying to sit down,backward,sitting
+18,21,5,Backward fall when trying to sit down,backward,sitting
+18,22,1,lateral fall when trying to sit down,lateral,sitting
+18,22,2,lateral fall when trying to sit down,lateral,sitting
+18,22,3,lateral fall when trying to sit down,lateral,sitting
+18,22,4,lateral fall when trying to sit down,lateral,sitting
+18,22,5,lateral fall when trying to sit down,lateral,sitting
+18,23,1,Forward fall when trying to get up,forward,standing
+18,23,2,Forward fall when trying to get up,forward,standing
+18,23,3,Forward fall when trying to get up,forward,standing
+18,23,4,Forward fall when trying to get up,forward,standing
+18,23,5,Forward fall when trying to get up,forward,standing
+18,24,1,lateral fall when trying to get up,lateral,standing
+18,24,2,lateral fall when trying to get up,lateral,standing
+18,24,3,lateral fall when trying to get up,lateral,standing
+18,24,4,lateral fall when trying to get up,lateral,standing
+18,24,5,lateral fall when trying to get up,lateral,standing
+18,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+18,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+18,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+18,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+18,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+18,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+18,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+18,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+18,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+18,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+18,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+18,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+18,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+18,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+18,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+18,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+18,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+18,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+18,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+18,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+18,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+18,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+18,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+18,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+18,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+18,30,1,Forward fall while walking caused by a trip,forward,walking
+18,30,2,Forward fall while walking caused by a trip,forward,walking
+18,30,3,Forward fall while walking caused by a trip,forward,walking
+18,30,4,Forward fall while walking caused by a trip,forward,walking
+18,30,5,Forward fall while walking caused by a trip,forward,walking
+18,31,1,Forward fall while jogging caused by a trip,forward,running
+18,31,2,Forward fall while jogging caused by a trip,forward,running
+18,31,3,Forward fall while jogging caused by a trip,forward,running
+18,31,4,Forward fall while jogging caused by a trip,forward,running
+18,31,5,Forward fall while jogging caused by a trip,forward,running
+18,32,1,Forward fall while walking caused by a slip,forward,walking
+18,32,2,Forward fall while walking caused by a slip,forward,walking
+18,32,3,Forward fall while walking caused by a slip,forward,walking
+18,32,4,Forward fall while walking caused by a slip,forward,walking
+18,32,5,Forward fall while walking caused by a slip,forward,walking
+18,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+18,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+18,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+18,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+18,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+18,34,1,Backward fall while walking caused by a slip,backward,walking
+18,34,2,Backward fall while walking caused by a slip,backward,walking
+18,34,3,Backward fall while walking caused by a slip,backward,walking
+18,34,4,Backward fall while walking caused by a slip,backward,walking
+18,34,5,Backward fall while walking caused by a slip,backward,walking
+19,20,1,Forward fall when trying to sit down,forward,sitting
+19,20,2,Forward fall when trying to sit down,forward,sitting
+19,20,3,Forward fall when trying to sit down,forward,sitting
+19,20,4,Forward fall when trying to sit down,forward,sitting
+19,20,5,Forward fall when trying to sit down,forward,sitting
+19,21,1,Backward fall when trying to sit down,backward,sitting
+19,21,2,Backward fall when trying to sit down,backward,sitting
+19,21,3,Backward fall when trying to sit down,backward,sitting
+19,21,4,Backward fall when trying to sit down,backward,sitting
+19,21,5,Backward fall when trying to sit down,backward,sitting
+19,22,1,lateral fall when trying to sit down,lateral,sitting
+19,22,2,lateral fall when trying to sit down,lateral,sitting
+19,22,4,lateral fall when trying to sit down,lateral,sitting
+19,22,5,lateral fall when trying to sit down,lateral,sitting
+19,23,1,Forward fall when trying to get up,forward,standing
+19,23,2,Forward fall when trying to get up,forward,standing
+19,23,3,Forward fall when trying to get up,forward,standing
+19,23,4,Forward fall when trying to get up,forward,standing
+19,23,5,Forward fall when trying to get up,forward,standing
+19,24,1,lateral fall when trying to get up,lateral,standing
+19,24,2,lateral fall when trying to get up,lateral,standing
+19,24,3,lateral fall when trying to get up,lateral,standing
+19,24,4,lateral fall when trying to get up,lateral,standing
+19,24,5,lateral fall when trying to get up,lateral,standing
+19,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+19,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+19,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+19,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+19,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+19,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+19,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+19,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+19,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+19,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+19,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+19,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+19,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+19,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+19,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+19,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+19,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+19,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+19,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+19,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+19,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+19,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+19,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+19,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+19,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+19,30,1,Forward fall while walking caused by a trip,forward,walking
+19,30,2,Forward fall while walking caused by a trip,forward,walking
+19,30,3,Forward fall while walking caused by a trip,forward,walking
+19,30,4,Forward fall while walking caused by a trip,forward,walking
+19,30,5,Forward fall while walking caused by a trip,forward,walking
+19,31,2,Forward fall while jogging caused by a trip,forward,running
+19,31,3,Forward fall while jogging caused by a trip,forward,running
+19,32,1,Forward fall while walking caused by a slip,forward,walking
+19,32,2,Forward fall while walking caused by a slip,forward,walking
+19,32,3,Forward fall while walking caused by a slip,forward,walking
+19,32,4,Forward fall while walking caused by a slip,forward,walking
+19,32,5,Forward fall while walking caused by a slip,forward,walking
+19,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+19,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+19,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+19,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+19,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+19,34,1,Backward fall while walking caused by a slip,backward,walking
+19,34,2,Backward fall while walking caused by a slip,backward,walking
+19,34,3,Backward fall while walking caused by a slip,backward,walking
+19,34,4,Backward fall while walking caused by a slip,backward,walking
+19,34,5,Backward fall while walking caused by a slip,backward,walking
+20,20,1,Forward fall when trying to sit down,forward,sitting
+20,20,2,Forward fall when trying to sit down,forward,sitting
+20,20,3,Forward fall when trying to sit down,forward,sitting
+20,20,4,Forward fall when trying to sit down,forward,sitting
+20,20,5,Forward fall when trying to sit down,forward,sitting
+20,21,1,Backward fall when trying to sit down,backward,sitting
+20,21,2,Backward fall when trying to sit down,backward,sitting
+20,21,3,Backward fall when trying to sit down,backward,sitting
+20,21,4,Backward fall when trying to sit down,backward,sitting
+20,21,5,Backward fall when trying to sit down,backward,sitting
+20,22,1,lateral fall when trying to sit down,lateral,sitting
+20,22,2,lateral fall when trying to sit down,lateral,sitting
+20,22,3,lateral fall when trying to sit down,lateral,sitting
+20,22,4,lateral fall when trying to sit down,lateral,sitting
+20,22,5,lateral fall when trying to sit down,lateral,sitting
+20,23,1,Forward fall when trying to get up,forward,standing
+20,23,2,Forward fall when trying to get up,forward,standing
+20,23,3,Forward fall when trying to get up,forward,standing
+20,23,4,Forward fall when trying to get up,forward,standing
+20,23,5,Forward fall when trying to get up,forward,standing
+20,24,1,lateral fall when trying to get up,lateral,standing
+20,24,2,lateral fall when trying to get up,lateral,standing
+20,24,3,lateral fall when trying to get up,lateral,standing
+20,24,4,lateral fall when trying to get up,lateral,standing
+20,24,5,lateral fall when trying to get up,lateral,standing
+20,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+20,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+20,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+20,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+20,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+20,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+20,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+20,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+20,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+20,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+20,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+20,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+20,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+20,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+20,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+20,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+20,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+20,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+20,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+20,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+20,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+20,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+20,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+20,30,2,Forward fall while walking caused by a trip,forward,walking
+20,30,3,Forward fall while walking caused by a trip,forward,walking
+20,30,4,Forward fall while walking caused by a trip,forward,walking
+20,30,5,Forward fall while walking caused by a trip,forward,walking
+20,31,1,Forward fall while jogging caused by a trip,forward,running
+20,31,2,Forward fall while jogging caused by a trip,forward,running
+20,31,3,Forward fall while jogging caused by a trip,forward,running
+20,31,5,Forward fall while jogging caused by a trip,forward,running
+20,32,1,Forward fall while walking caused by a slip,forward,walking
+20,32,2,Forward fall while walking caused by a slip,forward,walking
+20,32,3,Forward fall while walking caused by a slip,forward,walking
+20,32,4,Forward fall while walking caused by a slip,forward,walking
+20,32,5,Forward fall while walking caused by a slip,forward,walking
+20,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+20,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+20,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+20,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+20,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+20,34,1,Backward fall while walking caused by a slip,backward,walking
+20,34,2,Backward fall while walking caused by a slip,backward,walking
+20,34,3,Backward fall while walking caused by a slip,backward,walking
+20,34,4,Backward fall while walking caused by a slip,backward,walking
+20,34,5,Backward fall while walking caused by a slip,backward,walking
+21,20,2,Forward fall when trying to sit down,forward,sitting
+21,20,3,Forward fall when trying to sit down,forward,sitting
+21,20,4,Forward fall when trying to sit down,forward,sitting
+21,20,5,Forward fall when trying to sit down,forward,sitting
+21,21,1,Backward fall when trying to sit down,backward,sitting
+21,21,2,Backward fall when trying to sit down,backward,sitting
+21,21,3,Backward fall when trying to sit down,backward,sitting
+21,21,4,Backward fall when trying to sit down,backward,sitting
+21,21,5,Backward fall when trying to sit down,backward,sitting
+21,22,1,lateral fall when trying to sit down,lateral,sitting
+21,22,2,lateral fall when trying to sit down,lateral,sitting
+21,22,3,lateral fall when trying to sit down,lateral,sitting
+21,22,4,lateral fall when trying to sit down,lateral,sitting
+21,22,5,lateral fall when trying to sit down,lateral,sitting
+21,23,2,Forward fall when trying to get up,forward,standing
+21,23,3,Forward fall when trying to get up,forward,standing
+21,23,4,Forward fall when trying to get up,forward,standing
+21,23,5,Forward fall when trying to get up,forward,standing
+21,24,1,lateral fall when trying to get up,lateral,standing
+21,24,2,lateral fall when trying to get up,lateral,standing
+21,24,3,lateral fall when trying to get up,lateral,standing
+21,24,4,lateral fall when trying to get up,lateral,standing
+21,24,5,lateral fall when trying to get up,lateral,standing
+21,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+21,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+21,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+21,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+21,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+21,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+21,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+21,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+21,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+21,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+21,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+21,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+21,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+21,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+21,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+21,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+21,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+21,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+21,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+21,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+21,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+21,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+21,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+21,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+21,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+21,30,1,Forward fall while walking caused by a trip,forward,walking
+21,30,2,Forward fall while walking caused by a trip,forward,walking
+21,30,3,Forward fall while walking caused by a trip,forward,walking
+21,30,4,Forward fall while walking caused by a trip,forward,walking
+21,30,5,Forward fall while walking caused by a trip,forward,walking
+21,31,1,Forward fall while jogging caused by a trip,forward,running
+21,31,2,Forward fall while jogging caused by a trip,forward,running
+21,31,3,Forward fall while jogging caused by a trip,forward,running
+21,31,4,Forward fall while jogging caused by a trip,forward,running
+21,31,5,Forward fall while jogging caused by a trip,forward,running
+21,32,1,Forward fall while walking caused by a slip,forward,walking
+21,32,2,Forward fall while walking caused by a slip,forward,walking
+21,32,3,Forward fall while walking caused by a slip,forward,walking
+21,32,4,Forward fall while walking caused by a slip,forward,walking
+21,32,5,Forward fall while walking caused by a slip,forward,walking
+21,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+21,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+21,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+21,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+21,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+21,34,1,Backward fall while walking caused by a slip,backward,walking
+21,34,3,Backward fall while walking caused by a slip,backward,walking
+21,34,4,Backward fall while walking caused by a slip,backward,walking
+21,34,5,Backward fall while walking caused by a slip,backward,walking
+22,20,1,Forward fall when trying to sit down,forward,sitting
+22,20,2,Forward fall when trying to sit down,forward,sitting
+22,20,3,Forward fall when trying to sit down,forward,sitting
+22,20,4,Forward fall when trying to sit down,forward,sitting
+22,20,5,Forward fall when trying to sit down,forward,sitting
+22,21,1,Backward fall when trying to sit down,backward,sitting
+22,21,2,Backward fall when trying to sit down,backward,sitting
+22,21,3,Backward fall when trying to sit down,backward,sitting
+22,21,4,Backward fall when trying to sit down,backward,sitting
+22,21,5,Backward fall when trying to sit down,backward,sitting
+22,22,1,lateral fall when trying to sit down,lateral,sitting
+22,22,2,lateral fall when trying to sit down,lateral,sitting
+22,22,3,lateral fall when trying to sit down,lateral,sitting
+22,22,4,lateral fall when trying to sit down,lateral,sitting
+22,22,5,lateral fall when trying to sit down,lateral,sitting
+22,23,1,Forward fall when trying to get up,forward,standing
+22,23,2,Forward fall when trying to get up,forward,standing
+22,23,3,Forward fall when trying to get up,forward,standing
+22,23,4,Forward fall when trying to get up,forward,standing
+22,23,5,Forward fall when trying to get up,forward,standing
+22,24,1,lateral fall when trying to get up,lateral,standing
+22,24,2,lateral fall when trying to get up,lateral,standing
+22,24,3,lateral fall when trying to get up,lateral,standing
+22,24,4,lateral fall when trying to get up,lateral,standing
+22,24,5,lateral fall when trying to get up,lateral,standing
+22,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+22,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+22,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+22,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+22,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+22,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+22,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+22,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+22,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+22,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+22,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+22,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+22,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+22,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+22,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+22,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+22,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+22,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+22,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+22,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+22,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+22,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+22,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+22,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+22,30,1,Forward fall while walking caused by a trip,forward,walking
+22,30,2,Forward fall while walking caused by a trip,forward,walking
+22,30,3,Forward fall while walking caused by a trip,forward,walking
+22,30,4,Forward fall while walking caused by a trip,forward,walking
+22,30,5,Forward fall while walking caused by a trip,forward,walking
+22,31,1,Forward fall while jogging caused by a trip,forward,running
+22,31,2,Forward fall while jogging caused by a trip,forward,running
+22,31,3,Forward fall while jogging caused by a trip,forward,running
+22,31,4,Forward fall while jogging caused by a trip,forward,running
+22,32,1,Forward fall while walking caused by a slip,forward,walking
+22,32,2,Forward fall while walking caused by a slip,forward,walking
+22,32,3,Forward fall while walking caused by a slip,forward,walking
+22,32,4,Forward fall while walking caused by a slip,forward,walking
+22,32,5,Forward fall while walking caused by a slip,forward,walking
+22,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+22,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+22,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+22,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+22,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+22,34,1,Backward fall while walking caused by a slip,backward,walking
+22,34,2,Backward fall while walking caused by a slip,backward,walking
+22,34,3,Backward fall while walking caused by a slip,backward,walking
+22,34,4,Backward fall while walking caused by a slip,backward,walking
+22,34,5,Backward fall while walking caused by a slip,backward,walking
+23,20,1,Forward fall when trying to sit down,forward,sitting
+23,20,2,Forward fall when trying to sit down,forward,sitting
+23,20,3,Forward fall when trying to sit down,forward,sitting
+23,20,4,Forward fall when trying to sit down,forward,sitting
+23,20,5,Forward fall when trying to sit down,forward,sitting
+23,21,1,Backward fall when trying to sit down,backward,sitting
+23,21,2,Backward fall when trying to sit down,backward,sitting
+23,21,3,Backward fall when trying to sit down,backward,sitting
+23,21,4,Backward fall when trying to sit down,backward,sitting
+23,21,5,Backward fall when trying to sit down,backward,sitting
+23,22,1,lateral fall when trying to sit down,lateral,sitting
+23,22,2,lateral fall when trying to sit down,lateral,sitting
+23,22,3,lateral fall when trying to sit down,lateral,sitting
+23,22,4,lateral fall when trying to sit down,lateral,sitting
+23,22,5,lateral fall when trying to sit down,lateral,sitting
+23,23,1,Forward fall when trying to get up,forward,standing
+23,23,2,Forward fall when trying to get up,forward,standing
+23,23,3,Forward fall when trying to get up,forward,standing
+23,23,4,Forward fall when trying to get up,forward,standing
+23,23,5,Forward fall when trying to get up,forward,standing
+23,24,1,lateral fall when trying to get up,lateral,standing
+23,24,2,lateral fall when trying to get up,lateral,standing
+23,24,3,lateral fall when trying to get up,lateral,standing
+23,24,4,lateral fall when trying to get up,lateral,standing
+23,24,5,lateral fall when trying to get up,lateral,standing
+23,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+23,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+23,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+23,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+23,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+23,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+23,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+23,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+23,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+23,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+23,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+23,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+23,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+23,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+23,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+23,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+23,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+23,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+23,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+23,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+23,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+23,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+23,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+23,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+23,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+23,30,1,Forward fall while walking caused by a trip,forward,walking
+23,30,2,Forward fall while walking caused by a trip,forward,walking
+23,30,3,Forward fall while walking caused by a trip,forward,walking
+23,30,4,Forward fall while walking caused by a trip,forward,walking
+23,30,5,Forward fall while walking caused by a trip,forward,walking
+23,31,1,Forward fall while jogging caused by a trip,forward,running
+23,31,2,Forward fall while jogging caused by a trip,forward,running
+23,31,3,Forward fall while jogging caused by a trip,forward,running
+23,31,4,Forward fall while jogging caused by a trip,forward,running
+23,31,5,Forward fall while jogging caused by a trip,forward,running
+23,32,1,Forward fall while walking caused by a slip,forward,walking
+23,32,2,Forward fall while walking caused by a slip,forward,walking
+23,32,3,Forward fall while walking caused by a slip,forward,walking
+23,32,4,Forward fall while walking caused by a slip,forward,walking
+23,32,5,Forward fall while walking caused by a slip,forward,walking
+23,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+23,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+23,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+23,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+23,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+23,34,1,Backward fall while walking caused by a slip,backward,walking
+23,34,2,Backward fall while walking caused by a slip,backward,walking
+23,34,3,Backward fall while walking caused by a slip,backward,walking
+23,34,4,Backward fall while walking caused by a slip,backward,walking
+23,34,5,Backward fall while walking caused by a slip,backward,walking
+24,20,1,Forward fall when trying to sit down,forward,sitting
+24,20,3,Forward fall when trying to sit down,forward,sitting
+24,20,4,Forward fall when trying to sit down,forward,sitting
+24,20,5,Forward fall when trying to sit down,forward,sitting
+24,21,1,Backward fall when trying to sit down,backward,sitting
+24,21,2,Backward fall when trying to sit down,backward,sitting
+24,21,3,Backward fall when trying to sit down,backward,sitting
+24,21,4,Backward fall when trying to sit down,backward,sitting
+24,21,5,Backward fall when trying to sit down,backward,sitting
+24,22,1,lateral fall when trying to sit down,lateral,sitting
+24,22,2,lateral fall when trying to sit down,lateral,sitting
+24,22,3,lateral fall when trying to sit down,lateral,sitting
+24,22,4,lateral fall when trying to sit down,lateral,sitting
+24,22,5,lateral fall when trying to sit down,lateral,sitting
+24,23,1,Forward fall when trying to get up,forward,standing
+24,23,2,Forward fall when trying to get up,forward,standing
+24,23,3,Forward fall when trying to get up,forward,standing
+24,23,5,Forward fall when trying to get up,forward,standing
+24,24,1,lateral fall when trying to get up,lateral,standing
+24,24,2,lateral fall when trying to get up,lateral,standing
+24,24,3,lateral fall when trying to get up,lateral,standing
+24,24,4,lateral fall when trying to get up,lateral,standing
+24,24,5,lateral fall when trying to get up,lateral,standing
+24,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+24,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+24,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+24,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+24,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+24,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+24,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+24,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+24,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+24,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+24,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+24,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+24,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+24,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+24,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+24,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+24,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+24,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+24,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+24,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+24,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+24,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+24,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+24,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+24,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+24,30,1,Forward fall while walking caused by a trip,forward,walking
+24,30,3,Forward fall while walking caused by a trip,forward,walking
+24,30,5,Forward fall while walking caused by a trip,forward,walking
+24,31,2,Forward fall while jogging caused by a trip,forward,running
+24,31,3,Forward fall while jogging caused by a trip,forward,running
+24,31,4,Forward fall while jogging caused by a trip,forward,running
+24,31,5,Forward fall while jogging caused by a trip,forward,running
+24,32,1,Forward fall while walking caused by a slip,forward,walking
+24,32,2,Forward fall while walking caused by a slip,forward,walking
+24,32,3,Forward fall while walking caused by a slip,forward,walking
+24,32,4,Forward fall while walking caused by a slip,forward,walking
+24,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+24,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+24,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+24,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+24,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+24,34,1,Backward fall while walking caused by a slip,backward,walking
+24,34,2,Backward fall while walking caused by a slip,backward,walking
+24,34,3,Backward fall while walking caused by a slip,backward,walking
+24,34,4,Backward fall while walking caused by a slip,backward,walking
+25,20,1,Forward fall when trying to sit down,forward,sitting
+25,20,2,Forward fall when trying to sit down,forward,sitting
+25,20,3,Forward fall when trying to sit down,forward,sitting
+25,20,4,Forward fall when trying to sit down,forward,sitting
+25,20,5,Forward fall when trying to sit down,forward,sitting
+25,21,1,Backward fall when trying to sit down,backward,sitting
+25,21,2,Backward fall when trying to sit down,backward,sitting
+25,21,3,Backward fall when trying to sit down,backward,sitting
+25,21,4,Backward fall when trying to sit down,backward,sitting
+25,21,5,Backward fall when trying to sit down,backward,sitting
+25,22,1,lateral fall when trying to sit down,lateral,sitting
+25,22,2,lateral fall when trying to sit down,lateral,sitting
+25,22,3,lateral fall when trying to sit down,lateral,sitting
+25,22,4,lateral fall when trying to sit down,lateral,sitting
+25,22,5,lateral fall when trying to sit down,lateral,sitting
+25,23,1,Forward fall when trying to get up,forward,standing
+25,23,2,Forward fall when trying to get up,forward,standing
+25,23,3,Forward fall when trying to get up,forward,standing
+25,23,4,Forward fall when trying to get up,forward,standing
+25,23,5,Forward fall when trying to get up,forward,standing
+25,24,1,lateral fall when trying to get up,lateral,standing
+25,24,2,lateral fall when trying to get up,lateral,standing
+25,24,3,lateral fall when trying to get up,lateral,standing
+25,24,4,lateral fall when trying to get up,lateral,standing
+25,24,5,lateral fall when trying to get up,lateral,standing
+25,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+25,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+25,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+25,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+25,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+25,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+25,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+25,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+25,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+25,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+25,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+25,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+25,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+25,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+25,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+25,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+25,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+25,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+25,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+25,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+25,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+25,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+25,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+25,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+25,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+25,30,1,Forward fall while walking caused by a trip,forward,walking
+25,30,2,Forward fall while walking caused by a trip,forward,walking
+25,30,3,Forward fall while walking caused by a trip,forward,walking
+25,30,4,Forward fall while walking caused by a trip,forward,walking
+25,30,5,Forward fall while walking caused by a trip,forward,walking
+25,31,1,Forward fall while jogging caused by a trip,forward,running
+25,31,2,Forward fall while jogging caused by a trip,forward,running
+25,31,3,Forward fall while jogging caused by a trip,forward,running
+25,31,4,Forward fall while jogging caused by a trip,forward,running
+25,31,5,Forward fall while jogging caused by a trip,forward,running
+25,32,1,Forward fall while walking caused by a slip,forward,walking
+25,32,2,Forward fall while walking caused by a slip,forward,walking
+25,32,3,Forward fall while walking caused by a slip,forward,walking
+25,32,4,Forward fall while walking caused by a slip,forward,walking
+25,32,5,Forward fall while walking caused by a slip,forward,walking
+25,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+25,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+25,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+25,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+25,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+25,34,1,Backward fall while walking caused by a slip,backward,walking
+25,34,2,Backward fall while walking caused by a slip,backward,walking
+25,34,3,Backward fall while walking caused by a slip,backward,walking
+25,34,4,Backward fall while walking caused by a slip,backward,walking
+25,34,5,Backward fall while walking caused by a slip,backward,walking
+26,20,1,Forward fall when trying to sit down,forward,sitting
+26,20,2,Forward fall when trying to sit down,forward,sitting
+26,20,3,Forward fall when trying to sit down,forward,sitting
+26,20,4,Forward fall when trying to sit down,forward,sitting
+26,20,5,Forward fall when trying to sit down,forward,sitting
+26,21,1,Backward fall when trying to sit down,backward,sitting
+26,21,2,Backward fall when trying to sit down,backward,sitting
+26,21,3,Backward fall when trying to sit down,backward,sitting
+26,21,4,Backward fall when trying to sit down,backward,sitting
+26,21,5,Backward fall when trying to sit down,backward,sitting
+26,22,1,lateral fall when trying to sit down,lateral,sitting
+26,22,2,lateral fall when trying to sit down,lateral,sitting
+26,22,3,lateral fall when trying to sit down,lateral,sitting
+26,22,4,lateral fall when trying to sit down,lateral,sitting
+26,22,5,lateral fall when trying to sit down,lateral,sitting
+26,23,1,Forward fall when trying to get up,forward,standing
+26,23,2,Forward fall when trying to get up,forward,standing
+26,23,3,Forward fall when trying to get up,forward,standing
+26,23,4,Forward fall when trying to get up,forward,standing
+26,23,5,Forward fall when trying to get up,forward,standing
+26,24,1,lateral fall when trying to get up,lateral,standing
+26,24,2,lateral fall when trying to get up,lateral,standing
+26,24,4,lateral fall when trying to get up,lateral,standing
+26,24,5,lateral fall when trying to get up,lateral,standing
+26,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+26,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+26,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+26,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+26,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+26,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+26,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+26,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+26,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+26,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+26,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+26,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+26,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+26,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+26,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+26,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+26,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+26,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+26,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+26,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+26,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+26,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+26,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+26,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+26,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+26,30,1,Forward fall while walking caused by a trip,forward,walking
+26,30,2,Forward fall while walking caused by a trip,forward,walking
+26,30,3,Forward fall while walking caused by a trip,forward,walking
+26,30,4,Forward fall while walking caused by a trip,forward,walking
+26,30,5,Forward fall while walking caused by a trip,forward,walking
+26,31,1,Forward fall while jogging caused by a trip,forward,running
+26,31,2,Forward fall while jogging caused by a trip,forward,running
+26,31,3,Forward fall while jogging caused by a trip,forward,running
+26,31,4,Forward fall while jogging caused by a trip,forward,running
+26,31,5,Forward fall while jogging caused by a trip,forward,running
+26,32,1,Forward fall while walking caused by a slip,forward,walking
+26,32,2,Forward fall while walking caused by a slip,forward,walking
+26,32,3,Forward fall while walking caused by a slip,forward,walking
+26,32,4,Forward fall while walking caused by a slip,forward,walking
+26,32,5,Forward fall while walking caused by a slip,forward,walking
+26,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+26,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+26,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+26,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+26,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+26,34,1,Backward fall while walking caused by a slip,backward,walking
+26,34,2,Backward fall while walking caused by a slip,backward,walking
+26,34,3,Backward fall while walking caused by a slip,backward,walking
+26,34,4,Backward fall while walking caused by a slip,backward,walking
+26,34,5,Backward fall while walking caused by a slip,backward,walking
+27,20,1,Forward fall when trying to sit down,forward,sitting
+27,20,2,Forward fall when trying to sit down,forward,sitting
+27,20,3,Forward fall when trying to sit down,forward,sitting
+27,20,4,Forward fall when trying to sit down,forward,sitting
+27,20,5,Forward fall when trying to sit down,forward,sitting
+27,21,1,Backward fall when trying to sit down,backward,sitting
+27,21,2,Backward fall when trying to sit down,backward,sitting
+27,21,3,Backward fall when trying to sit down,backward,sitting
+27,21,5,Backward fall when trying to sit down,backward,sitting
+27,22,1,lateral fall when trying to sit down,lateral,sitting
+27,22,3,lateral fall when trying to sit down,lateral,sitting
+27,22,4,lateral fall when trying to sit down,lateral,sitting
+27,22,5,lateral fall when trying to sit down,lateral,sitting
+27,23,1,Forward fall when trying to get up,forward,standing
+27,23,2,Forward fall when trying to get up,forward,standing
+27,23,3,Forward fall when trying to get up,forward,standing
+27,23,4,Forward fall when trying to get up,forward,standing
+27,24,1,lateral fall when trying to get up,lateral,standing
+27,24,2,lateral fall when trying to get up,lateral,standing
+27,24,3,lateral fall when trying to get up,lateral,standing
+27,24,4,lateral fall when trying to get up,lateral,standing
+27,24,5,lateral fall when trying to get up,lateral,standing
+27,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+27,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+27,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+27,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+27,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+27,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+27,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+27,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+27,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+27,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+27,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+27,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+27,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+27,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+27,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+27,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+27,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+27,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+27,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+27,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+27,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+27,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+27,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+27,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+27,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+27,30,1,Forward fall while walking caused by a trip,forward,walking
+27,30,2,Forward fall while walking caused by a trip,forward,walking
+27,30,3,Forward fall while walking caused by a trip,forward,walking
+27,30,4,Forward fall while walking caused by a trip,forward,walking
+27,30,5,Forward fall while walking caused by a trip,forward,walking
+27,31,1,Forward fall while jogging caused by a trip,forward,running
+27,31,2,Forward fall while jogging caused by a trip,forward,running
+27,31,3,Forward fall while jogging caused by a trip,forward,running
+27,31,4,Forward fall while jogging caused by a trip,forward,running
+27,31,5,Forward fall while jogging caused by a trip,forward,running
+27,32,1,Forward fall while walking caused by a slip,forward,walking
+27,32,2,Forward fall while walking caused by a slip,forward,walking
+27,32,3,Forward fall while walking caused by a slip,forward,walking
+27,32,4,Forward fall while walking caused by a slip,forward,walking
+27,32,5,Forward fall while walking caused by a slip,forward,walking
+27,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+27,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+27,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+27,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+27,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+27,34,1,Backward fall while walking caused by a slip,backward,walking
+27,34,2,Backward fall while walking caused by a slip,backward,walking
+27,34,3,Backward fall while walking caused by a slip,backward,walking
+27,34,4,Backward fall while walking caused by a slip,backward,walking
+27,34,5,Backward fall while walking caused by a slip,backward,walking
+28,20,1,Forward fall when trying to sit down,forward,sitting
+28,20,2,Forward fall when trying to sit down,forward,sitting
+28,20,3,Forward fall when trying to sit down,forward,sitting
+28,20,4,Forward fall when trying to sit down,forward,sitting
+28,20,5,Forward fall when trying to sit down,forward,sitting
+28,21,1,Backward fall when trying to sit down,backward,sitting
+28,21,2,Backward fall when trying to sit down,backward,sitting
+28,21,3,Backward fall when trying to sit down,backward,sitting
+28,21,4,Backward fall when trying to sit down,backward,sitting
+28,21,5,Backward fall when trying to sit down,backward,sitting
+28,22,1,lateral fall when trying to sit down,lateral,sitting
+28,22,2,lateral fall when trying to sit down,lateral,sitting
+28,22,3,lateral fall when trying to sit down,lateral,sitting
+28,22,4,lateral fall when trying to sit down,lateral,sitting
+28,22,5,lateral fall when trying to sit down,lateral,sitting
+28,23,1,Forward fall when trying to get up,forward,standing
+28,23,2,Forward fall when trying to get up,forward,standing
+28,23,4,Forward fall when trying to get up,forward,standing
+28,23,5,Forward fall when trying to get up,forward,standing
+28,24,1,lateral fall when trying to get up,lateral,standing
+28,24,2,lateral fall when trying to get up,lateral,standing
+28,24,3,lateral fall when trying to get up,lateral,standing
+28,24,4,lateral fall when trying to get up,lateral,standing
+28,24,5,lateral fall when trying to get up,lateral,standing
+28,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+28,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+28,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+28,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+28,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+28,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+28,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+28,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+28,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+28,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+28,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+28,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+28,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+28,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+28,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+28,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+28,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+28,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+28,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+28,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+28,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+28,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+28,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+28,30,1,Forward fall while walking caused by a trip,forward,walking
+28,30,2,Forward fall while walking caused by a trip,forward,walking
+28,30,3,Forward fall while walking caused by a trip,forward,walking
+28,30,4,Forward fall while walking caused by a trip,forward,walking
+28,30,5,Forward fall while walking caused by a trip,forward,walking
+28,31,1,Forward fall while jogging caused by a trip,forward,running
+28,31,2,Forward fall while jogging caused by a trip,forward,running
+28,31,3,Forward fall while jogging caused by a trip,forward,running
+28,31,4,Forward fall while jogging caused by a trip,forward,running
+28,32,1,Forward fall while walking caused by a slip,forward,walking
+28,32,2,Forward fall while walking caused by a slip,forward,walking
+28,32,3,Forward fall while walking caused by a slip,forward,walking
+28,32,4,Forward fall while walking caused by a slip,forward,walking
+28,32,5,Forward fall while walking caused by a slip,forward,walking
+28,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+28,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+28,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+28,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+28,34,1,Backward fall while walking caused by a slip,backward,walking
+28,34,2,Backward fall while walking caused by a slip,backward,walking
+28,34,3,Backward fall while walking caused by a slip,backward,walking
+28,34,4,Backward fall while walking caused by a slip,backward,walking
+28,34,5,Backward fall while walking caused by a slip,backward,walking
+29,20,1,Forward fall when trying to sit down,forward,sitting
+29,20,2,Forward fall when trying to sit down,forward,sitting
+29,20,3,Forward fall when trying to sit down,forward,sitting
+29,20,4,Forward fall when trying to sit down,forward,sitting
+29,20,5,Forward fall when trying to sit down,forward,sitting
+29,21,1,Backward fall when trying to sit down,backward,sitting
+29,21,2,Backward fall when trying to sit down,backward,sitting
+29,21,3,Backward fall when trying to sit down,backward,sitting
+29,21,4,Backward fall when trying to sit down,backward,sitting
+29,21,5,Backward fall when trying to sit down,backward,sitting
+29,22,1,lateral fall when trying to sit down,lateral,sitting
+29,22,2,lateral fall when trying to sit down,lateral,sitting
+29,22,3,lateral fall when trying to sit down,lateral,sitting
+29,22,4,lateral fall when trying to sit down,lateral,sitting
+29,22,5,lateral fall when trying to sit down,lateral,sitting
+29,23,1,Forward fall when trying to get up,forward,standing
+29,23,2,Forward fall when trying to get up,forward,standing
+29,23,3,Forward fall when trying to get up,forward,standing
+29,23,4,Forward fall when trying to get up,forward,standing
+29,23,5,Forward fall when trying to get up,forward,standing
+29,24,1,lateral fall when trying to get up,lateral,standing
+29,24,2,lateral fall when trying to get up,lateral,standing
+29,24,3,lateral fall when trying to get up,lateral,standing
+29,24,5,lateral fall when trying to get up,lateral,standing
+29,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+29,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+29,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+29,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+29,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+29,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+29,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+29,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+29,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+29,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+29,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+29,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+29,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+29,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+29,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+29,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+29,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+29,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+29,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+29,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+29,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+29,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+29,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+29,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+29,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+29,30,1,Forward fall while walking caused by a trip,forward,walking
+29,30,2,Forward fall while walking caused by a trip,forward,walking
+29,30,3,Forward fall while walking caused by a trip,forward,walking
+29,30,4,Forward fall while walking caused by a trip,forward,walking
+29,30,5,Forward fall while walking caused by a trip,forward,walking
+29,31,1,Forward fall while jogging caused by a trip,forward,running
+29,31,2,Forward fall while jogging caused by a trip,forward,running
+29,31,3,Forward fall while jogging caused by a trip,forward,running
+29,31,4,Forward fall while jogging caused by a trip,forward,running
+29,31,5,Forward fall while jogging caused by a trip,forward,running
+29,32,1,Forward fall while walking caused by a slip,forward,walking
+29,32,2,Forward fall while walking caused by a slip,forward,walking
+29,32,3,Forward fall while walking caused by a slip,forward,walking
+29,32,4,Forward fall while walking caused by a slip,forward,walking
+29,32,5,Forward fall while walking caused by a slip,forward,walking
+29,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+29,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+29,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+29,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+29,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+29,34,1,Backward fall while walking caused by a slip,backward,walking
+29,34,2,Backward fall while walking caused by a slip,backward,walking
+29,34,3,Backward fall while walking caused by a slip,backward,walking
+29,34,4,Backward fall while walking caused by a slip,backward,walking
+29,34,5,Backward fall while walking caused by a slip,backward,walking
+30,20,1,Forward fall when trying to sit down,forward,sitting
+30,20,2,Forward fall when trying to sit down,forward,sitting
+30,20,3,Forward fall when trying to sit down,forward,sitting
+30,20,4,Forward fall when trying to sit down,forward,sitting
+30,20,5,Forward fall when trying to sit down,forward,sitting
+30,21,1,Backward fall when trying to sit down,backward,sitting
+30,21,2,Backward fall when trying to sit down,backward,sitting
+30,21,3,Backward fall when trying to sit down,backward,sitting
+30,21,4,Backward fall when trying to sit down,backward,sitting
+30,21,5,Backward fall when trying to sit down,backward,sitting
+30,22,1,lateral fall when trying to sit down,lateral,sitting
+30,22,2,lateral fall when trying to sit down,lateral,sitting
+30,22,3,lateral fall when trying to sit down,lateral,sitting
+30,22,4,lateral fall when trying to sit down,lateral,sitting
+30,22,5,lateral fall when trying to sit down,lateral,sitting
+30,23,1,Forward fall when trying to get up,forward,standing
+30,23,2,Forward fall when trying to get up,forward,standing
+30,23,3,Forward fall when trying to get up,forward,standing
+30,23,4,Forward fall when trying to get up,forward,standing
+30,23,5,Forward fall when trying to get up,forward,standing
+30,24,1,lateral fall when trying to get up,lateral,standing
+30,24,2,lateral fall when trying to get up,lateral,standing
+30,24,3,lateral fall when trying to get up,lateral,standing
+30,24,4,lateral fall when trying to get up,lateral,standing
+30,24,5,lateral fall when trying to get up,lateral,standing
+30,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+30,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+30,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+30,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+30,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+30,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+30,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+30,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+30,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+30,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+30,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+30,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+30,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+30,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+30,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+30,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+30,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+30,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+30,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+30,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+30,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+30,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+30,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+30,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+30,30,1,Forward fall while walking caused by a trip,forward,walking
+30,30,2,Forward fall while walking caused by a trip,forward,walking
+30,30,3,Forward fall while walking caused by a trip,forward,walking
+30,30,4,Forward fall while walking caused by a trip,forward,walking
+30,30,5,Forward fall while walking caused by a trip,forward,walking
+30,31,1,Forward fall while jogging caused by a trip,forward,running
+30,31,2,Forward fall while jogging caused by a trip,forward,running
+30,31,3,Forward fall while jogging caused by a trip,forward,running
+30,31,4,Forward fall while jogging caused by a trip,forward,running
+30,31,5,Forward fall while jogging caused by a trip,forward,running
+30,32,1,Forward fall while walking caused by a slip,forward,walking
+30,32,2,Forward fall while walking caused by a slip,forward,walking
+30,32,3,Forward fall while walking caused by a slip,forward,walking
+30,32,4,Forward fall while walking caused by a slip,forward,walking
+30,32,5,Forward fall while walking caused by a slip,forward,walking
+30,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+30,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+30,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+30,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+30,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+30,34,1,Backward fall while walking caused by a slip,backward,walking
+30,34,2,Backward fall while walking caused by a slip,backward,walking
+30,34,3,Backward fall while walking caused by a slip,backward,walking
+30,34,4,Backward fall while walking caused by a slip,backward,walking
+30,34,5,Backward fall while walking caused by a slip,backward,walking
+31,20,1,Forward fall when trying to sit down,forward,sitting
+31,20,2,Forward fall when trying to sit down,forward,sitting
+31,20,3,Forward fall when trying to sit down,forward,sitting
+31,20,4,Forward fall when trying to sit down,forward,sitting
+31,20,5,Forward fall when trying to sit down,forward,sitting
+31,21,1,Backward fall when trying to sit down,backward,sitting
+31,21,2,Backward fall when trying to sit down,backward,sitting
+31,21,3,Backward fall when trying to sit down,backward,sitting
+31,21,4,Backward fall when trying to sit down,backward,sitting
+31,21,5,Backward fall when trying to sit down,backward,sitting
+31,22,1,lateral fall when trying to sit down,lateral,sitting
+31,22,2,lateral fall when trying to sit down,lateral,sitting
+31,22,3,lateral fall when trying to sit down,lateral,sitting
+31,22,4,lateral fall when trying to sit down,lateral,sitting
+31,22,5,lateral fall when trying to sit down,lateral,sitting
+31,23,1,Forward fall when trying to get up,forward,standing
+31,23,2,Forward fall when trying to get up,forward,standing
+31,23,3,Forward fall when trying to get up,forward,standing
+31,23,4,Forward fall when trying to get up,forward,standing
+31,23,5,Forward fall when trying to get up,forward,standing
+31,24,1,lateral fall when trying to get up,lateral,standing
+31,24,2,lateral fall when trying to get up,lateral,standing
+31,24,3,lateral fall when trying to get up,lateral,standing
+31,24,4,lateral fall when trying to get up,lateral,standing
+31,24,5,lateral fall when trying to get up,lateral,standing
+31,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+31,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+31,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+31,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+31,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+31,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+31,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+31,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+31,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+31,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+31,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+31,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+31,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+31,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+31,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+31,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+31,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+31,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+31,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+31,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+31,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+31,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+31,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+31,30,1,Forward fall while walking caused by a trip,forward,walking
+31,30,2,Forward fall while walking caused by a trip,forward,walking
+31,30,3,Forward fall while walking caused by a trip,forward,walking
+31,30,4,Forward fall while walking caused by a trip,forward,walking
+31,30,5,Forward fall while walking caused by a trip,forward,walking
+31,31,1,Forward fall while jogging caused by a trip,forward,running
+31,31,2,Forward fall while jogging caused by a trip,forward,running
+31,31,4,Forward fall while jogging caused by a trip,forward,running
+31,31,5,Forward fall while jogging caused by a trip,forward,running
+31,32,1,Forward fall while walking caused by a slip,forward,walking
+31,32,2,Forward fall while walking caused by a slip,forward,walking
+31,32,3,Forward fall while walking caused by a slip,forward,walking
+31,32,4,Forward fall while walking caused by a slip,forward,walking
+31,32,5,Forward fall while walking caused by a slip,forward,walking
+31,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+31,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+31,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+31,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+31,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+31,34,1,Backward fall while walking caused by a slip,backward,walking
+31,34,4,Backward fall while walking caused by a slip,backward,walking
+31,34,5,Backward fall while walking caused by a slip,backward,walking
+32,20,1,Forward fall when trying to sit down,forward,sitting
+32,20,2,Forward fall when trying to sit down,forward,sitting
+32,20,3,Forward fall when trying to sit down,forward,sitting
+32,20,4,Forward fall when trying to sit down,forward,sitting
+32,20,5,Forward fall when trying to sit down,forward,sitting
+32,21,1,Backward fall when trying to sit down,backward,sitting
+32,21,2,Backward fall when trying to sit down,backward,sitting
+32,21,3,Backward fall when trying to sit down,backward,sitting
+32,21,4,Backward fall when trying to sit down,backward,sitting
+32,21,5,Backward fall when trying to sit down,backward,sitting
+32,22,1,lateral fall when trying to sit down,lateral,sitting
+32,22,2,lateral fall when trying to sit down,lateral,sitting
+32,22,3,lateral fall when trying to sit down,lateral,sitting
+32,22,4,lateral fall when trying to sit down,lateral,sitting
+32,22,5,lateral fall when trying to sit down,lateral,sitting
+32,23,1,Forward fall when trying to get up,forward,standing
+32,23,2,Forward fall when trying to get up,forward,standing
+32,23,3,Forward fall when trying to get up,forward,standing
+32,23,4,Forward fall when trying to get up,forward,standing
+32,23,5,Forward fall when trying to get up,forward,standing
+32,24,1,lateral fall when trying to get up,lateral,standing
+32,24,2,lateral fall when trying to get up,lateral,standing
+32,24,3,lateral fall when trying to get up,lateral,standing
+32,24,4,lateral fall when trying to get up,lateral,standing
+32,24,5,lateral fall when trying to get up,lateral,standing
+32,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+32,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+32,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+32,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+32,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+32,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+32,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+32,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+32,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+32,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+32,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+32,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+32,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+32,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+32,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+32,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+32,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+32,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+32,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+32,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+32,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+32,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+32,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+32,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+32,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+32,30,1,Forward fall while walking caused by a trip,forward,walking
+32,30,2,Forward fall while walking caused by a trip,forward,walking
+32,30,3,Forward fall while walking caused by a trip,forward,walking
+32,30,4,Forward fall while walking caused by a trip,forward,walking
+32,30,5,Forward fall while walking caused by a trip,forward,walking
+32,31,1,Forward fall while jogging caused by a trip,forward,running
+32,31,2,Forward fall while jogging caused by a trip,forward,running
+32,31,3,Forward fall while jogging caused by a trip,forward,running
+32,31,4,Forward fall while jogging caused by a trip,forward,running
+32,31,5,Forward fall while jogging caused by a trip,forward,running
+32,32,1,Forward fall while walking caused by a slip,forward,walking
+32,32,2,Forward fall while walking caused by a slip,forward,walking
+32,32,3,Forward fall while walking caused by a slip,forward,walking
+32,32,4,Forward fall while walking caused by a slip,forward,walking
+32,32,5,Forward fall while walking caused by a slip,forward,walking
+32,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+32,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+32,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+32,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+32,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+32,34,1,Backward fall while walking caused by a slip,backward,walking
+32,34,2,Backward fall while walking caused by a slip,backward,walking
+32,34,3,Backward fall while walking caused by a slip,backward,walking
+32,34,4,Backward fall while walking caused by a slip,backward,walking
+32,34,5,Backward fall while walking caused by a slip,backward,walking
+33,20,1,Forward fall when trying to sit down,forward,sitting
+33,20,2,Forward fall when trying to sit down,forward,sitting
+33,20,3,Forward fall when trying to sit down,forward,sitting
+33,20,4,Forward fall when trying to sit down,forward,sitting
+33,20,5,Forward fall when trying to sit down,forward,sitting
+33,21,1,Backward fall when trying to sit down,backward,sitting
+33,21,2,Backward fall when trying to sit down,backward,sitting
+33,21,3,Backward fall when trying to sit down,backward,sitting
+33,21,4,Backward fall when trying to sit down,backward,sitting
+33,21,5,Backward fall when trying to sit down,backward,sitting
+33,22,1,lateral fall when trying to sit down,lateral,sitting
+33,22,2,lateral fall when trying to sit down,lateral,sitting
+33,22,3,lateral fall when trying to sit down,lateral,sitting
+33,22,4,lateral fall when trying to sit down,lateral,sitting
+33,22,5,lateral fall when trying to sit down,lateral,sitting
+33,23,1,Forward fall when trying to get up,forward,standing
+33,23,3,Forward fall when trying to get up,forward,standing
+33,23,4,Forward fall when trying to get up,forward,standing
+33,23,5,Forward fall when trying to get up,forward,standing
+33,24,1,lateral fall when trying to get up,lateral,standing
+33,24,2,lateral fall when trying to get up,lateral,standing
+33,24,3,lateral fall when trying to get up,lateral,standing
+33,24,4,lateral fall when trying to get up,lateral,standing
+33,24,5,lateral fall when trying to get up,lateral,standing
+33,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+33,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+33,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+33,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+33,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+33,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+33,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+33,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+33,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+33,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+33,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+33,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+33,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+33,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+33,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+33,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+33,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+33,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+33,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+33,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+33,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+33,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+33,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+33,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+33,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+33,30,1,Forward fall while walking caused by a trip,forward,walking
+33,30,2,Forward fall while walking caused by a trip,forward,walking
+33,30,3,Forward fall while walking caused by a trip,forward,walking
+33,30,4,Forward fall while walking caused by a trip,forward,walking
+33,30,5,Forward fall while walking caused by a trip,forward,walking
+33,31,1,Forward fall while jogging caused by a trip,forward,running
+33,31,2,Forward fall while jogging caused by a trip,forward,running
+33,31,3,Forward fall while jogging caused by a trip,forward,running
+33,31,4,Forward fall while jogging caused by a trip,forward,running
+33,31,5,Forward fall while jogging caused by a trip,forward,running
+33,32,1,Forward fall while walking caused by a slip,forward,walking
+33,32,2,Forward fall while walking caused by a slip,forward,walking
+33,32,3,Forward fall while walking caused by a slip,forward,walking
+33,32,4,Forward fall while walking caused by a slip,forward,walking
+33,32,5,Forward fall while walking caused by a slip,forward,walking
+33,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+33,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+33,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+33,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+33,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+33,34,1,Backward fall while walking caused by a slip,backward,walking
+33,34,2,Backward fall while walking caused by a slip,backward,walking
+33,34,3,Backward fall while walking caused by a slip,backward,walking
+33,34,4,Backward fall while walking caused by a slip,backward,walking
+33,34,5,Backward fall while walking caused by a slip,backward,walking
+35,20,1,Forward fall when trying to sit down,forward,sitting
+35,20,2,Forward fall when trying to sit down,forward,sitting
+35,20,3,Forward fall when trying to sit down,forward,sitting
+35,20,4,Forward fall when trying to sit down,forward,sitting
+35,20,5,Forward fall when trying to sit down,forward,sitting
+35,21,1,Backward fall when trying to sit down,backward,sitting
+35,21,2,Backward fall when trying to sit down,backward,sitting
+35,21,3,Backward fall when trying to sit down,backward,sitting
+35,21,4,Backward fall when trying to sit down,backward,sitting
+35,21,5,Backward fall when trying to sit down,backward,sitting
+35,22,1,lateral fall when trying to sit down,lateral,sitting
+35,22,2,lateral fall when trying to sit down,lateral,sitting
+35,22,3,lateral fall when trying to sit down,lateral,sitting
+35,22,4,lateral fall when trying to sit down,lateral,sitting
+35,22,5,lateral fall when trying to sit down,lateral,sitting
+35,23,1,Forward fall when trying to get up,forward,standing
+35,23,2,Forward fall when trying to get up,forward,standing
+35,23,3,Forward fall when trying to get up,forward,standing
+35,23,4,Forward fall when trying to get up,forward,standing
+35,23,5,Forward fall when trying to get up,forward,standing
+35,24,1,lateral fall when trying to get up,lateral,standing
+35,24,2,lateral fall when trying to get up,lateral,standing
+35,24,3,lateral fall when trying to get up,lateral,standing
+35,24,4,lateral fall when trying to get up,lateral,standing
+35,24,5,lateral fall when trying to get up,lateral,standing
+35,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+35,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+35,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+35,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+35,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+35,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+35,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+35,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+35,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+35,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+35,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+35,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+35,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+35,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+35,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+35,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+35,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+35,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+35,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+35,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+35,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+35,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+35,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+35,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+35,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+35,30,1,Forward fall while walking caused by a trip,forward,walking
+35,30,2,Forward fall while walking caused by a trip,forward,walking
+35,30,3,Forward fall while walking caused by a trip,forward,walking
+35,30,4,Forward fall while walking caused by a trip,forward,walking
+35,30,5,Forward fall while walking caused by a trip,forward,walking
+35,31,1,Forward fall while jogging caused by a trip,forward,running
+35,31,2,Forward fall while jogging caused by a trip,forward,running
+35,31,3,Forward fall while jogging caused by a trip,forward,running
+35,31,4,Forward fall while jogging caused by a trip,forward,running
+35,31,5,Forward fall while jogging caused by a trip,forward,running
+35,32,1,Forward fall while walking caused by a slip,forward,walking
+35,32,2,Forward fall while walking caused by a slip,forward,walking
+35,32,3,Forward fall while walking caused by a slip,forward,walking
+35,32,4,Forward fall while walking caused by a slip,forward,walking
+35,32,5,Forward fall while walking caused by a slip,forward,walking
+35,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+35,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+35,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+35,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+35,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+35,34,1,Backward fall while walking caused by a slip,backward,walking
+35,34,2,Backward fall while walking caused by a slip,backward,walking
+35,34,4,Backward fall while walking caused by a slip,backward,walking
+35,34,5,Backward fall while walking caused by a slip,backward,walking
+36,20,1,Forward fall when trying to sit down,forward,sitting
+36,20,2,Forward fall when trying to sit down,forward,sitting
+36,20,3,Forward fall when trying to sit down,forward,sitting
+36,20,4,Forward fall when trying to sit down,forward,sitting
+36,20,5,Forward fall when trying to sit down,forward,sitting
+36,21,1,Backward fall when trying to sit down,backward,sitting
+36,21,2,Backward fall when trying to sit down,backward,sitting
+36,21,3,Backward fall when trying to sit down,backward,sitting
+36,21,4,Backward fall when trying to sit down,backward,sitting
+36,21,5,Backward fall when trying to sit down,backward,sitting
+36,22,1,lateral fall when trying to sit down,lateral,sitting
+36,22,2,lateral fall when trying to sit down,lateral,sitting
+36,22,3,lateral fall when trying to sit down,lateral,sitting
+36,22,4,lateral fall when trying to sit down,lateral,sitting
+36,22,5,lateral fall when trying to sit down,lateral,sitting
+36,23,1,Forward fall when trying to get up,forward,standing
+36,23,2,Forward fall when trying to get up,forward,standing
+36,23,3,Forward fall when trying to get up,forward,standing
+36,23,4,Forward fall when trying to get up,forward,standing
+36,23,5,Forward fall when trying to get up,forward,standing
+36,24,1,lateral fall when trying to get up,lateral,standing
+36,24,2,lateral fall when trying to get up,lateral,standing
+36,24,3,lateral fall when trying to get up,lateral,standing
+36,24,4,lateral fall when trying to get up,lateral,standing
+36,24,5,lateral fall when trying to get up,lateral,standing
+36,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+36,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+36,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+36,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+36,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+36,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+36,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+36,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+36,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+36,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+36,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+36,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+36,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+36,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+36,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+36,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+36,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+36,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+36,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+36,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+36,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+36,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+36,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+36,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+36,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+36,30,1,Forward fall while walking caused by a trip,forward,walking
+36,30,2,Forward fall while walking caused by a trip,forward,walking
+36,30,3,Forward fall while walking caused by a trip,forward,walking
+36,30,4,Forward fall while walking caused by a trip,forward,walking
+36,30,5,Forward fall while walking caused by a trip,forward,walking
+36,31,1,Forward fall while jogging caused by a trip,forward,running
+36,31,2,Forward fall while jogging caused by a trip,forward,running
+36,31,3,Forward fall while jogging caused by a trip,forward,running
+36,31,4,Forward fall while jogging caused by a trip,forward,running
+36,31,5,Forward fall while jogging caused by a trip,forward,running
+36,32,1,Forward fall while walking caused by a slip,forward,walking
+36,32,2,Forward fall while walking caused by a slip,forward,walking
+36,32,3,Forward fall while walking caused by a slip,forward,walking
+36,32,4,Forward fall while walking caused by a slip,forward,walking
+36,32,5,Forward fall while walking caused by a slip,forward,walking
+36,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+36,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+36,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+36,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+36,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+36,34,1,Backward fall while walking caused by a slip,backward,walking
+36,34,2,Backward fall while walking caused by a slip,backward,walking
+36,34,3,Backward fall while walking caused by a slip,backward,walking
+36,34,4,Backward fall while walking caused by a slip,backward,walking
+36,34,5,Backward fall while walking caused by a slip,backward,walking
+37,20,1,Forward fall when trying to sit down,forward,sitting
+37,20,2,Forward fall when trying to sit down,forward,sitting
+37,20,3,Forward fall when trying to sit down,forward,sitting
+37,20,4,Forward fall when trying to sit down,forward,sitting
+37,20,5,Forward fall when trying to sit down,forward,sitting
+37,21,1,Backward fall when trying to sit down,backward,sitting
+37,21,2,Backward fall when trying to sit down,backward,sitting
+37,21,3,Backward fall when trying to sit down,backward,sitting
+37,21,4,Backward fall when trying to sit down,backward,sitting
+37,21,5,Backward fall when trying to sit down,backward,sitting
+37,22,1,lateral fall when trying to sit down,lateral,sitting
+37,22,2,lateral fall when trying to sit down,lateral,sitting
+37,22,3,lateral fall when trying to sit down,lateral,sitting
+37,22,4,lateral fall when trying to sit down,lateral,sitting
+37,23,1,Forward fall when trying to get up,forward,standing
+37,23,2,Forward fall when trying to get up,forward,standing
+37,23,3,Forward fall when trying to get up,forward,standing
+37,23,4,Forward fall when trying to get up,forward,standing
+37,23,5,Forward fall when trying to get up,forward,standing
+37,24,1,lateral fall when trying to get up,lateral,standing
+37,24,2,lateral fall when trying to get up,lateral,standing
+37,24,3,lateral fall when trying to get up,lateral,standing
+37,24,5,lateral fall when trying to get up,lateral,standing
+37,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+37,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+37,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+37,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+37,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+37,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+37,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+37,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+37,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+37,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+37,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+37,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+37,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+37,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+37,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+37,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+37,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+37,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+37,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+37,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+37,29,5,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+37,30,1,Forward fall while walking caused by a trip,forward,walking
+37,30,2,Forward fall while walking caused by a trip,forward,walking
+37,30,3,Forward fall while walking caused by a trip,forward,walking
+37,30,4,Forward fall while walking caused by a trip,forward,walking
+37,30,5,Forward fall while walking caused by a trip,forward,walking
+37,31,1,Forward fall while jogging caused by a trip,forward,running
+37,31,2,Forward fall while jogging caused by a trip,forward,running
+37,31,3,Forward fall while jogging caused by a trip,forward,running
+37,31,5,Forward fall while jogging caused by a trip,forward,running
+37,32,1,Forward fall while walking caused by a slip,forward,walking
+37,32,2,Forward fall while walking caused by a slip,forward,walking
+37,32,3,Forward fall while walking caused by a slip,forward,walking
+37,32,4,Forward fall while walking caused by a slip,forward,walking
+37,32,5,Forward fall while walking caused by a slip,forward,walking
+37,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+37,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+37,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+37,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+37,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+37,34,1,Backward fall while walking caused by a slip,backward,walking
+37,34,2,Backward fall while walking caused by a slip,backward,walking
+37,34,3,Backward fall while walking caused by a slip,backward,walking
+37,34,4,Backward fall while walking caused by a slip,backward,walking
+37,34,5,Backward fall while walking caused by a slip,backward,walking
+38,20,1,Forward fall when trying to sit down,forward,sitting
+38,20,2,Forward fall when trying to sit down,forward,sitting
+38,20,3,Forward fall when trying to sit down,forward,sitting
+38,20,4,Forward fall when trying to sit down,forward,sitting
+38,20,5,Forward fall when trying to sit down,forward,sitting
+38,21,1,Backward fall when trying to sit down,backward,sitting
+38,21,2,Backward fall when trying to sit down,backward,sitting
+38,21,3,Backward fall when trying to sit down,backward,sitting
+38,21,4,Backward fall when trying to sit down,backward,sitting
+38,21,5,Backward fall when trying to sit down,backward,sitting
+38,22,1,lateral fall when trying to sit down,lateral,sitting
+38,22,2,lateral fall when trying to sit down,lateral,sitting
+38,22,3,lateral fall when trying to sit down,lateral,sitting
+38,22,4,lateral fall when trying to sit down,lateral,sitting
+38,22,5,lateral fall when trying to sit down,lateral,sitting
+38,23,1,Forward fall when trying to get up,forward,standing
+38,23,2,Forward fall when trying to get up,forward,standing
+38,23,3,Forward fall when trying to get up,forward,standing
+38,23,4,Forward fall when trying to get up,forward,standing
+38,23,5,Forward fall when trying to get up,forward,standing
+38,24,1,lateral fall when trying to get up,lateral,standing
+38,24,2,lateral fall when trying to get up,lateral,standing
+38,24,3,lateral fall when trying to get up,lateral,standing
+38,24,4,lateral fall when trying to get up,lateral,standing
+38,24,5,lateral fall when trying to get up,lateral,standing
+38,25,1,"Forward fall while sitting, caused by fainting",forward,fainting
+38,25,2,"Forward fall while sitting, caused by fainting",forward,fainting
+38,25,3,"Forward fall while sitting, caused by fainting",forward,fainting
+38,25,4,"Forward fall while sitting, caused by fainting",forward,fainting
+38,25,5,"Forward fall while sitting, caused by fainting",forward,fainting
+38,26,1,"lateral fall while sitting, caused by fainting",lateral,fainting
+38,26,2,"lateral fall while sitting, caused by fainting",lateral,fainting
+38,26,3,"lateral fall while sitting, caused by fainting",lateral,fainting
+38,26,4,"lateral fall while sitting, caused by fainting",lateral,fainting
+38,26,5,"lateral fall while sitting, caused by fainting",lateral,fainting
+38,27,1,"Backward fall while sitting, caused by fainting",backward,fainting
+38,27,2,"Backward fall while sitting, caused by fainting",backward,fainting
+38,27,3,"Backward fall while sitting, caused by fainting",backward,fainting
+38,27,4,"Backward fall while sitting, caused by fainting",backward,fainting
+38,27,5,"Backward fall while sitting, caused by fainting",backward,fainting
+38,28,1,Vertical(forward) fall while walking caused by fainting,forward,fainting
+38,28,2,Vertical(forward) fall while walking caused by fainting,forward,fainting
+38,28,3,Vertical(forward) fall while walking caused by fainting,forward,fainting
+38,28,4,Vertical(forward) fall while walking caused by fainting,forward,fainting
+38,28,5,Vertical(forward) fall while walking caused by fainting,forward,fainting
+38,29,1,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+38,29,2,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+38,29,3,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+38,29,4,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",unspecified,fainting
+38,30,1,Forward fall while walking caused by a trip,forward,walking
+38,30,2,Forward fall while walking caused by a trip,forward,walking
+38,30,3,Forward fall while walking caused by a trip,forward,walking
+38,30,4,Forward fall while walking caused by a trip,forward,walking
+38,30,5,Forward fall while walking caused by a trip,forward,walking
+38,31,1,Forward fall while jogging caused by a trip,forward,running
+38,31,2,Forward fall while jogging caused by a trip,forward,running
+38,31,3,Forward fall while jogging caused by a trip,forward,running
+38,31,4,Forward fall while jogging caused by a trip,forward,running
+38,31,5,Forward fall while jogging caused by a trip,forward,running
+38,32,1,Forward fall while walking caused by a slip,forward,walking
+38,32,2,Forward fall while walking caused by a slip,forward,walking
+38,32,3,Forward fall while walking caused by a slip,forward,walking
+38,32,4,Forward fall while walking caused by a slip,forward,walking
+38,32,5,Forward fall while walking caused by a slip,forward,walking
+38,33,1,Forward lateral fall while walking caused by a slip,lateral,walking
+38,33,2,Forward lateral fall while walking caused by a slip,lateral,walking
+38,33,3,Forward lateral fall while walking caused by a slip,lateral,walking
+38,33,4,Forward lateral fall while walking caused by a slip,lateral,walking
+38,33,5,Forward lateral fall while walking caused by a slip,lateral,walking
+38,34,1,Backward fall while walking caused by a slip,backward,walking
+38,34,2,Backward fall while walking caused by a slip,backward,walking
+38,34,3,Backward fall while walking caused by a slip,backward,walking
+38,34,4,Backward fall while walking caused by a slip,backward,walking
+38,34,5,Backward fall while walking caused by a slip,backward,walking
