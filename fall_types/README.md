@@ -63,6 +63,13 @@ has nine panels for acceleration X/Y/Z, gyroscope X/Y/Z, and Euler X/Y/Z.
 - `event_aligned_features.csv`: 2,315 trial-level feature rows.
 - `separability_tests.csv`: Kruskal-Wallis tests and effect sizes.
 - `grouped_classification.csv`: subject-grouped random-forest balanced accuracy.
+- `random_forest/`: reproducible Random Forest artifacts, including five
+	subject-grouped fold models and one final all-data model for each target,
+	fold scores, out-of-fold predictions, and feature-column lists.
+
+The reported Random Forest scores are calculated only from out-of-fold
+predictions on unseen subjects. The final all-data models are saved for later
+inference and are not used to calculate the reported validation score.
 
 ## Interpretation
 

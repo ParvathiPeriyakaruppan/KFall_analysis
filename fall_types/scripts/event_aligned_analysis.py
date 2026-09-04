@@ -19,8 +19,10 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 from scipy.stats import kruskal
+from joblib import dump
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import GroupKFold, cross_val_score
+from sklearn.metrics import balanced_accuracy_score
+from sklearn.model_selection import GroupKFold
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 FALL_TYPES_DIR = os.path.dirname(SCRIPT_DIR)
@@ -40,6 +42,9 @@ OUTPUT_DIR = os.path.join(FALL_TYPES_DIR, "results", "event_aligned")
 FEATURES_CSV = os.path.join(OUTPUT_DIR, "event_aligned_features.csv")
 SEPARABILITY_CSV = os.path.join(OUTPUT_DIR, "separability_tests.csv")
 CLASSIFICATION_CSV = os.path.join(OUTPUT_DIR, "grouped_classification.csv")
+RF_DIR = os.path.join(OUTPUT_DIR, "random_forest")
+RF_SCORES_CSV = os.path.join(RF_DIR, "fold_scores.csv")
+RF_PREDICTIONS_CSV = os.path.join(RF_DIR, "out_of_fold_predictions.csv")
 GRID = np.linspace(-1.0, 1.0, 201)
 EVENT_CHANNELS = [channel for channel, _, _ in CHANNELS]
 
@@ -274,23 +279,54 @@ def run_grouped_classification(features):
     excluded = {"subject", "task_id", "trial_id", "description", "direction", "context"}
     feature_columns = [column for column in features.columns if column not in excluded]
     rows = []
+    all_predictions = []
+    os.makedirs(RF_DIR, exist_ok=True)
+    if os.path.exists(RF_SCORES_CSV):
+        os.remove(RF_SCORES_CSV)
     for group_name in ("direction", "context"):
         data = features.dropna(subset=feature_columns + [group_name])
         splitter = GroupKFold(n_splits=5)
-        classifier = RandomForestClassifier(
+        group_scores = []
+        for fold, (train_idx, test_idx) in enumerate(
+                splitter.split(data[feature_columns], data[group_name], data["subject"]), 1):
+            classifier = RandomForestClassifier(
+                n_estimators=300, random_state=42, class_weight="balanced", n_jobs=-1
+            )
+            classifier.fit(data.iloc[train_idx][feature_columns], data.iloc[train_idx][group_name])
+            predictions = classifier.predict(data.iloc[test_idx][feature_columns])
+            score = balanced_accuracy_score(data.iloc[test_idx][group_name], predictions)
+            group_scores.append(score)
+            fold_predictions = data.iloc[test_idx][["subject", "task_id", "trial_id", group_name]].copy()
+            fold_predictions["fold"] = fold
+            fold_predictions["prediction"] = predictions
+            fold_predictions["correct"] = predictions == fold_predictions[group_name].to_numpy()
+            fold_predictions.rename(columns={group_name: "actual"}, inplace=True)
+            fold_predictions["group"] = group_name
+            all_predictions.append(fold_predictions)
+            dump(classifier, os.path.join(RF_DIR, f"{group_name}_fold{fold}.joblib"))
+
+        final_classifier = RandomForestClassifier(
             n_estimators=300, random_state=42, class_weight="balanced", n_jobs=-1
         )
-        scores = cross_val_score(
-            classifier, data[feature_columns], data[group_name],
-            groups=data["subject"], cv=splitter, scoring="balanced_accuracy",
+        final_classifier.fit(data[feature_columns], data[group_name])
+        dump(final_classifier, os.path.join(RF_DIR, f"{group_name}_final.joblib"))
+        pd.Series(feature_columns, name="feature").to_csv(
+            os.path.join(RF_DIR, f"{group_name}_feature_columns.csv"), index=False
         )
         rows.append({
             "group": group_name,
             "subjects": data["subject"].nunique(),
             "trials": len(data),
-            "balanced_accuracy_mean": scores.mean(),
-            "balanced_accuracy_std": scores.std(),
+            "balanced_accuracy_mean": np.mean(group_scores),
+            "balanced_accuracy_std": np.std(group_scores),
         })
+        pd.DataFrame({
+            "group": group_name,
+            "fold": np.arange(1, len(group_scores) + 1),
+            "balanced_accuracy": group_scores,
+        }).to_csv(RF_SCORES_CSV, mode="a", index=False,
+                  header=not os.path.exists(RF_SCORES_CSV))
+    pd.concat(all_predictions, ignore_index=True).to_csv(RF_PREDICTIONS_CSV, index=False)
     return pd.DataFrame(rows)
 
 
@@ -314,6 +350,7 @@ def main():
     print(f"Features: {FEATURES_CSV}")
     print(f"Separability tests: {SEPARABILITY_CSV}")
     print(f"Grouped classification: {CLASSIFICATION_CSV}")
+    print(f"Random Forest artifacts: {RF_DIR}")
 
 
 if __name__ == "__main__":
