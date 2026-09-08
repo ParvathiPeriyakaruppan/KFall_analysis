@@ -1,0 +1,3 @@
+target,subjects,trials,balanced_accuracy_mean,balanced_accuracy_std
+context,32,2315,0.79738897204444,0.019874314476140326
+direction,32,2315,0.9597529668998874,0.024441031211345596

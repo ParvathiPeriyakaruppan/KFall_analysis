@@ -10,7 +10,8 @@ generated outputs are organized below this folder only.
 fall_types/
 ├── scripts/
 │   ├── plot_fall_types.py
-│   └── event_aligned_analysis.py
+│   ├── event_aligned_analysis.py
+│   └── multitask_1d_cnn.py
 ├── docs/
 │   ├── parameter_analysis.md
 │   ├── event_categorization_and_plot_conclusions.md
@@ -38,6 +39,7 @@ From `KFall_analysis`:
 ```text
 python fall_types/scripts/plot_fall_types.py
 python fall_types/scripts/event_aligned_analysis.py
+python fall_types/scripts/multitask_1d_cnn.py
 ```
 
 The second command can be accelerated for plot-only reruns with:
@@ -63,13 +65,6 @@ has nine panels for acceleration X/Y/Z, gyroscope X/Y/Z, and Euler X/Y/Z.
 - `event_aligned_features.csv`: 2,315 trial-level feature rows.
 - `separability_tests.csv`: Kruskal-Wallis tests and effect sizes.
 - `grouped_classification.csv`: subject-grouped random-forest balanced accuracy.
-- `random_forest/`: reproducible Random Forest artifacts, including five
-	subject-grouped fold models and one final all-data model for each target,
-	fold scores, out-of-fold predictions, and feature-column lists.
-
-The reported Random Forest scores are calculated only from out-of-fold
-predictions on unseen subjects. The final all-data models are saved for later
-inference and are not used to calculate the reported validation score.
 
 ## Interpretation
 

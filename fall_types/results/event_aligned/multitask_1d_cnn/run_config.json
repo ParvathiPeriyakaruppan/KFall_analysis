@@ -1,0 +1,34 @@
+{
+  "epochs": 75,
+  "batch_size": 64,
+  "learning_rate": 0.001,
+  "context_loss_weight": 1.0,
+  "folds": 5,
+  "seed": 42,
+  "cpu": false,
+  "device": "cpu",
+  "channels": [
+    "AccX",
+    "AccY",
+    "AccZ",
+    "GyrX",
+    "GyrY",
+    "GyrZ",
+    "EulerX",
+    "EulerY",
+    "EulerZ"
+  ],
+  "direction_classes": [
+    "backward",
+    "forward",
+    "lateral",
+    "unspecified"
+  ],
+  "context_classes": [
+    "fainting",
+    "running",
+    "sitting",
+    "standing",
+    "walking"
+  ]
+}

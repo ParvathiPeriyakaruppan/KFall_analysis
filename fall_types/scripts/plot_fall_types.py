@@ -91,7 +91,12 @@ TASK_FALLBACKS = {
 
 
 def classify_description(description):
-    """Return direction and situation labels without pretending they are labels."""
+    """Return direction and one of the six approved context labels.
+
+    Context remains task-description-derived metadata.  Categories not in the
+    approved taxonomy (for example, stairs or lying) are deliberately mapped
+    to ``unspecified`` instead of creating additional model classes.
+    """
     text = str(description).lower()
     if any(word in text for word in ("backward", "backwards", "back fall")):
         direction = "backward"
@@ -104,8 +109,6 @@ def classify_description(description):
 
     if any(word in text for word in ("faint", "syncope")):
         context = "fainting"
-    elif any(word in text for word in ("stair", "stairs")):
-        context = "stairs"
     elif any(word in text for word in ("run", "running", "jog")):
         context = "running"
     elif any(word in text for word in ("walk", "walking")):
@@ -114,8 +117,6 @@ def classify_description(description):
         context = "sitting"
     elif any(word in text for word in ("stand", "standing", "get up")):
         context = "standing"
-    elif any(word in text for word in ("lie", "lying", "bed")):
-        context = "lying"
     else:
         context = "unspecified"
     return direction, context
