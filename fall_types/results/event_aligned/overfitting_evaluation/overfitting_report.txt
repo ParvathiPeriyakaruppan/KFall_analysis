@@ -1,0 +1,61 @@
+RANDOM FOREST OVERFITTING REPORT
+Evaluation uses saved grouped-fold models and out-of-fold predictions.
+There is no separate fixed external test set in the saved artifacts; held-out-subject scores below are five-fold cross-validation estimates.
+Training scores are in-fold resubstitution scores averaged across the five fold models, not scores from the all-data final model.
+
+TARGET: DIRECTION
+Training Performance (mean +/- standard deviation across fold models):
+  Accuracy: 1.0000 +/- 0.0000
+  Balanced Accuracy: 1.0000 +/- 0.0000
+  Precision: 1.0000 +/- 0.0000
+  Recall: 1.0000 +/- 0.0000
+  F1: 1.0000 +/- 0.0000
+Unseen-Subject Performance (held-out folds):
+  Accuracy: 0.9762 +/- 0.0081
+  Balanced Accuracy: 0.9491 +/- 0.0239
+  Precision: 0.9738 +/- 0.0109
+  Recall: 0.9491 +/- 0.0239
+  F1: 0.9589 +/- 0.0181
+Performance Gap (training minus held-out balanced accuracy): +0.0509
+GroupKFold Assignment Check: PASS - saved folds match reconstructed GroupKFold
+Subject Leakage: PASS - No subject overlap
+Cross-Validation Mean Balanced Accuracy: 0.9491
+Cross-Validation Balanced Accuracy Standard Deviation: 0.0239
+Potential Feature Leakage: YES
+Preprocessing Leakage: NO
+Overall Interpretation: Some overfitting is possible: there is a noticeable training-to-held-out gap, but it is not decisive by itself.
+
+TARGET: CONTEXT
+Training Performance (mean +/- standard deviation across fold models):
+  Accuracy: 1.0000 +/- 0.0000
+  Balanced Accuracy: 1.0000 +/- 0.0000
+  Precision: 1.0000 +/- 0.0000
+  Recall: 1.0000 +/- 0.0000
+  F1: 1.0000 +/- 0.0000
+Unseen-Subject Performance (held-out folds):
+  Accuracy: 0.7303 +/- 0.0447
+  Balanced Accuracy: 0.7022 +/- 0.0493
+  Precision: 0.7135 +/- 0.0492
+  Recall: 0.7022 +/- 0.0493
+  F1: 0.7014 +/- 0.0467
+Performance Gap (training minus held-out balanced accuracy): +0.2978
+GroupKFold Assignment Check: PASS - saved folds match reconstructed GroupKFold
+Subject Leakage: PASS - No subject overlap
+Cross-Validation Mean Balanced Accuracy: 0.7022
+Cross-Validation Balanced Accuracy Standard Deviation: 0.0493
+Potential Feature Leakage: YES
+Preprocessing Leakage: NO
+Overall Interpretation: Evidence consistent with overfitting: mean in-fold training balanced accuracy exceeds held-out-subject performance by at least 0.10. Consider the feature-leakage warning and extended diagnostics too.
+
+LEAKAGE REVIEW
+  - features derived from labeled onset/impact annotations: ['onset_to_impact_s']
+  - peak timing features use an event-aligned window that includes post-impact samples: ['acc_m_peak_time_s', 'gyro_m_peak_time_s', 'orientation_change_peak_time_s']
+  - These are temporal/annotation risks for pre-impact deployment; they do not by themselves prove that the direction/context target was copied.
+  - Preprocessing: The saved estimator is a direct RandomForestClassifier; no fitted scaler or normalization step is serialized with it. The feature generator uses per-trial summaries rather than dataset-fitted scaling.
+
+EXTENDED DIAGNOSTICS
+  Learning curves and complexity comparisons: completed
+  The optional diagnostics fit temporary models only and do not overwrite saved .joblib files.
+
+PLAIN-LANGUAGE SUMMARY
+  The training score shows how well each fold model predicts subjects it learned from. The held-out score shows performance on different subjects. A large gap is a warning sign, while a small gap with strong held-out performance supports generalization. Event-aligned post-impact features are not suitable evidence of pre-impact prediction ability.
